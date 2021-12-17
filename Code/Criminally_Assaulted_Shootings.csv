@@ -1,0 +1,688 @@
+﻿lat,lon,OBJECTID,Loc_name,Status,Score,Match_type,Match_addr,Side,User_fld,Addr_type,IN_Street,IN_City,IN_ZIP,IN_State,USER_Date,USER_Address,USER_City,USER_State,USER_Fatal,USER_Year
+-86.21286318,41.66935814,1,Danielle-Cente,M,100,A,"700 S 24TH ST, SOUTH BEND, 46615",L,0,StreetAddress,700 S 24th St. ,South Bend,,IN,2017/09/05 05:00:00+00,700 S 24th St. ,South Bend,IN,No,2017
+-86.21166947,41.67132726,2,Danielle-Cente,M,100,A,"500 S 25TH ST, SOUTH BEND, 46615",L,0,StreetAddress,500 S 25th St. ,South Bend,,IN,2016/10/19 05:00:00+00,500 S 25th St. ,South Bend,IN,Yes,2016
+-86.21065185,41.70616625,3,Danielle-Cente,T,88.59,A,"54100 27TH ST, SOUTH BEND, 46635",L,0,StreetAddress,700 S 27th St. ,South Bend,,IN,2015/05/16 05:00:00+00,700 S 27th St. ,South Bend,IN,No,2015
+-86.20382566,41.66045742,4,Danielle-Cente,M,100,A,"1300 S 31ST ST, SOUTH BEND, 46615",R,0,StreetAddress,1300 S 31st. St. ,South Bend,,IN,2016/12/11 05:00:00+00,1300 S 31st. St. ,South Bend,IN,Yes,2016
+-86.19908204,41.6624665,5,Danielle-Cente,M,100,A,"1200 S 35TH ST, SOUTH BEND, 46615",R,0,StreetAddress,1200 S 35th St. ,South Bend,,IN,2017/08/01 05:00:00+00,1200 S 35th St. ,South Bend,IN,No,2017
+-86.19784616,41.67029022,6,Danielle-Cente,M,100,A,"600 S 36TH ST, SOUTH BEND, 46615",L,0,StreetAddress,600 S 36th St. ,South Bend,,IN,2016/10/10 05:00:00+00,600 S 36th St. ,South Bend,IN,No,2016
+-86.27518074,41.68755185,7,Danielle-Cente,M,100,A,"1000 N ADAMS ST, SOUTH BEND, 46628",R,0,StreetAddress,1000 N Adams St. ,South Bend,,IN,2015/08/17 05:00:00+00,1000 N Adams St. ,South Bend,IN,No,2015
+-86.27525819,41.69083001,8,Danielle-Cente,M,79,A,"1201 N ADAMS ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 N Adams St. ,South Bend,,IN,2015/12/08 05:00:00+00,1200 N Adams St. ,South Bend,IN,No,2015
+-86.26578438,41.68296298,9,Danielle-Cente,M,100,A,"500 N ALLEN ST, SOUTH BEND, 46616",L,0,StreetAddress,500 N Allen St. ,South Bend,,IN,2015/12/26 05:00:00+00,500 N Allen St. ,South Bend,IN,No,2015
+-86.26605395,41.68387656,10,Danielle-Cente,M,100,A,"700 N ALLEN ST, SOUTH BEND, 46616",R,0,StreetAddress,700 N Allen St. ,South Bend,,IN,2016/11/13 05:00:00+00,700 N Allen St. ,South Bend,IN,No,2016
+-86.27140913,41.69475713,11,Danielle-Cente,M,100,A,"1500 N ANDERSON AV, SOUTH BEND, 46628",R,0,StreetAddress,1500 N Anderson Ave. ,South Bend,,IN,2016/01/18 05:00:00+00,1500 N Anderson Ave. ,South Bend,IN,Yes,2016
+-86.2330834,41.68355304,12,Danielle-Cente,M,81.74,A,"600 N ARTHUR ST, SOUTH BEND, 46617",R,0,StreetAddress,600 N Arhur St. ,South Bend,,IN,2017/07/22 05:00:00+00,600 N Arhur St. ,South Bend,IN,No,2017
+-86.29352891,41.69730556,13,Danielle-Cente,M,79,A,"1401 N BENDIX DR, SOUTH BEND, 46628",L,0,StreetAddress,1400 N Bendix Dr. ,South Bend,,IN,2015/03/24 05:00:00+00,1400 N Bendix Dr. ,South Bend,IN,Yes,2015
+-86.28875103,41.66657832,14,Danielle-Cente,M,79,A,"801 S BENDIX DR, SOUTH BEND, 46619",L,0,StreetAddress,800 S Bendix Dr. ,South Bend,,IN,2017/03/16 05:00:00+00,800 S Bendix Dr. ,South Bend,IN,Yes,2017
+-86.27320345,41.68217387,15,Danielle-Cente,T,100,A,"601 N BIRDSELL ST, SOUTH BEND, 46628",L,0,StreetAddress,300 N Birdsell St. ,South Bend,,IN,2017/12/11 05:00:00+00,300 N Birdsell St. ,South Bend,IN,No,2017
+-86.27320872,41.68056212,16,Danielle-Cente,M,100,A,"400 N BIRDSELL ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Birdsell St. ,South Bend,,IN,2015/09/20 05:00:00+00,400 N Birdsell St. ,South Bend,IN,Yes,2015
+-86.26745586,41.68936591,17,Danielle-Cente,M,100,A,"1100 N BLAINE AV, SOUTH BEND, 46616",R,0,StreetAddress,1100 N Blaine Ave. ,South Bend,,IN,2017/02/06 05:00:00+00,1100 N Blaine Ave. ,South Bend,IN,Yes,2017
+-86.26747265,41.69091034,18,Danielle-Cente,T,86.3,A,"1201 N BLAINE AV, SOUTH BEND, 46628",L,0,StreetAddress,800 N Blaine St. ,South Bend,,IN,2015/10/10 05:00:00+00,800 N Blaine St. ,South Bend,IN,No,2015
+-86.2875403,41.71996092,19,Danielle-Cente,T,100,A,"2653 N BOW CT, SOUTH BEND, 46628",L,0,StreetAddress,2600 N Bow Ct. ,South Bend,,IN,2015/12/24 05:00:00+00,2600 N Bow Ct. ,South Bend,IN,No,2015
+-86.2379133,41.6536772,20,Danielle-Cente,M,100,A,"900 E BOWMAN ST, SOUTH BEND, 46613",R,0,StreetAddress,900 E Bowman St. ,South Bend,,IN,2016/08/19 05:00:00+00,900 E Bowman St. ,South Bend,IN,No,2016
+-86.2379133,41.6536772,21,Danielle-Cente,M,100,A,"900 E BOWMAN ST, SOUTH BEND, 46613",R,0,StreetAddress,900 E Bowman St. ,South Bend,,IN,2016/08/20 05:00:00+00,900 E Bowman St. ,South Bend,IN,No,2016
+-86.24444353,41.66017779,22,Danielle-Cente,M,100,A,"500 E BROADWAY ST, SOUTH BEND, 46613",R,0,StreetAddress,500 E Broadway St. ,South Bend,,IN,2016/05/28 05:00:00+00,500 E Broadway St. ,South Bend,IN,Yes,2016
+-86.24105887,41.66026045,23,Danielle-Cente,M,100,A,"700 E BROADWAY ST, SOUTH BEND, 46613",R,0,StreetAddress,700 E Broadway St. ,South Bend,,IN,2016/03/12 05:00:00+00,700 E Broadway St. ,South Bend,IN,No,2016
+-86.27770453,41.68921229,24,Danielle-Cente,M,100,A,"1100 N BROOKFIELD ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Brookfield St. ,South Bend,,IN,2015/05/24 05:00:00+00,1100 N Brookfield St. ,South Bend,IN,No,2015
+-86.27793773,41.70151129,25,Danielle-Cente,M,79,A,"1901 N BROOKFIELD ST, SOUTH BEND, 46628",L,0,StreetAddress,1900 N Brookfield St. ,South Bend,,IN,2017/07/31 05:00:00+00,1900 N Brookfield St. ,South Bend,IN,No,2017
+-86.22989849,41.63453562,26,Danielle-Cente,T,100,A,"3928 S BROOKTON DR, SOUTH BEND, 46614",L,0,StreetAddress,4000 S Brookton Dr. ,South Bend,,IN,2016/04/05 05:00:00+00,4000 S Brookton Dr. ,South Bend,IN,No,2016
+-86.26459968,41.70079541,27,Danielle-Cente,T,88.59,A,"1014 BRYAN ST, SOUTH BEND, 46616",L,0,StreetAddress,1000 W Bryan St. ,South Bend,,IN,2015/12/25 05:00:00+00,1000 W Bryan St. ,South Bend,IN,No,2015
+-86.2689749,41.65401561,28,Danielle-Cente,T,90.87,A,"1300 W CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,1300 E Calvert St. ,South Bend,,IN,2017/11/30 05:00:00+00,1300 E Calvert St. ,South Bend,IN,No,2017
+-86.24787549,41.65434244,29,Danielle-Cente,M,100,A,"200 E CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,200 E Calvert St. ,South Bend,,IN,2017/06/10 05:00:00+00,200 E Calvert St. ,South Bend,IN,No,2017
+-86.24787549,41.65434244,30,Danielle-Cente,M,100,A,"200 E CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,200 E Calvert St. ,South Bend,,IN,2017/06/22 05:00:00+00,200 E Calvert St. ,South Bend,IN,No,2017
+-86.24787549,41.65434244,31,Danielle-Cente,M,100,A,"200 E CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,200 E Calvert St. ,South Bend,,IN,2015/01/04 05:00:00+00,200 E Calvert St. ,South Bend,IN,Yes,2015
+-86.24787549,41.65434244,32,Danielle-Cente,M,100,A,"200 E CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,200 E Calvert St. ,South Bend,,IN,2015/01/04 05:00:00+00,200 E Calvert St. ,South Bend,IN,Yes,2015
+-86.2587574,41.65414403,33,Danielle-Cente,M,100,A,"700 W CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,700 W Calvert St. ,South Bend,,IN,2017/12/04 05:00:00+00,700 W Calvert St. ,South Bend,IN,No,2017
+-86.2422073,41.68188418,34,Danielle-Cente,T,100,A,"E CEDAR ST, SOUTH BEND, 46617",L,0,StreetAddress,1200 E Cedar St. ,South Bend,,IN,2016/09/26 05:00:00+00,1200 E Cedar St. ,South Bend,IN,Yes,2016
+-86.3022119,41.67767877,35,Danielle-Cente,M,100,A,"200 N CHICAGO ST, SOUTH BEND, 46619",R,0,StreetAddress,200 N Chicago St. ,South Bend,,IN,2015/08/10 05:00:00+00,200 N Chicago St. ,South Bend,IN,No,2015
+-86.30211038,41.67190489,36,Danielle-Cente,M,100,A,"400 S CHICAGO ST, SOUTH BEND, 46619",L,0,StreetAddress,400 S Chicago St. ,South Bend,,IN,2017/01/02 05:00:00+00,400 S Chicago St. ,South Bend,IN,No,2017
+-86.26873833,41.69115564,37,Danielle-Cente,T,86.3,A,"N CLEVELAND AV, SOUTH BEND, 46628",L,0,StreetAddress,1000 N Cleveland St. ,South Bend,,IN,2015/05/17 05:00:00+00,1000 N Cleveland St. ,South Bend,IN,No,2015
+-86.26868871,41.68935077,38,Danielle-Cente,M,100,A,"1100 N CLEVELAND AV, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Cleveland Ave. ,South Bend,,IN,2016/09/23 05:00:00+00,1100 N Cleveland Ave. ,South Bend,IN,No,2016
+-86.26868871,41.68935077,39,Danielle-Cente,M,100,A,"1100 N CLEVELAND AV, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Cleveland Ave. ,South Bend,,IN,2016/09/23 05:00:00+00,1100 N Cleveland Ave. ,South Bend,IN,No,2016
+-86.26868871,41.68935077,40,Danielle-Cente,M,100,A,"1100 N CLEVELAND AV, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Cleveland Ave. ,South Bend,,IN,2016/09/23 05:00:00+00,1100 N Cleveland Ave. ,South Bend,IN,No,2016
+-86.31978989,41.68050745,41,Danielle-Cente,T,86.3,A,"5202 W COLFAX AV, SOUTH BEND, 46619",L,0,StreetAddress,200 W Colfax St. ,South Bend,,IN,2016/05/31 05:00:00+00,200 W Colfax St. ,South Bend,IN,Yes,2016
+-86.24288755,41.67781706,42,Danielle-Cente,M,90.87,A,"600 E COLFAX AV, SOUTH BEND, 46617",R,0,StreetAddress,600 W Colfax Ave. ,South Bend,,IN,2015/06/13 05:00:00+00,600 W Colfax Ave. ,South Bend,IN,No,2015
+-86.26126212,41.67764195,43,Danielle-Cente,M,100,A,"800 W COLFAX AV, SOUTH BEND, 46601",L,0,StreetAddress,800 W Colfax Ave. ,South Bend,,IN,2017/05/05 05:00:00+00,800 W Colfax Ave. ,South Bend,IN,No,2017
+-86.27644593,41.68922739,44,Danielle-Cente,M,100,A,"1100 N COLLEGE ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N College St. ,South Bend,,IN,2017/05/16 05:00:00+00,1100 N College St. ,South Bend,IN,No,2017
+-86.27647438,41.6908185,45,Danielle-Cente,M,79,A,"1201 N COLLEGE ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 N College St. ,South Bend,,IN,2016/07/02 05:00:00+00,1200 N College St. ,South Bend,IN,No,2016
+-86.27654106,41.69477217,46,Danielle-Cente,M,100,A,"1500 N COLLEGE ST, SOUTH BEND, 46628",R,0,StreetAddress,1500 N College St. ,South Bend,,IN,2017/04/17 05:00:00+00,1500 N College St. ,South Bend,IN,No,2017
+-86.27654106,41.69477217,47,Danielle-Cente,M,100,A,"1500 N COLLEGE ST, SOUTH BEND, 46628",R,0,StreetAddress,1500 N College St. ,South Bend,,IN,2017/04/17 05:00:00+00,1500 N College St. ,South Bend,IN,No,2017
+-86.24597636,41.68704393,48,Danielle-Cente,M,89.04,A,"400 E CORBY BLVD, SOUTH BEND, 46617",R,0,StreetAddress,400 E Corby St. ,South Bend,,IN,2015/07/28 05:00:00+00,400 E Corby St. ,South Bend,IN,Yes,2015
+-86.30017592,41.68984861,49,Danielle-Cente,T,88.59,A,"3620 CURTISS DR, SOUTH BEND, 46628",L,0,StreetAddress,3700 N Curtiss Dr. ,South Bend,,IN,2017/07/08 05:00:00+00,3700 N Curtiss Dr. ,South Bend,IN,No,2017
+-86.23784585,41.65604401,50,Danielle-Cente,M,100,A,"900 E DAYTON ST, SOUTH BEND, 46613",R,0,StreetAddress,900 E Dayton St. ,South Bend,,IN,2017/06/07 05:00:00+00,900 E Dayton St. ,South Bend,IN,No,2017
+-86.26990045,41.68778114,51,Danielle-Cente,M,100,A,"1000 N DIAMOND AV, SOUTH BEND, 46628",R,0,StreetAddress,1000 N Diamond Ave. ,South Bend,,IN,2016/04/23 05:00:00+00,1000 N Diamond Ave. ,South Bend,IN,No,2016
+-86.2692074,41.69089672,52,Danielle-Cente,T,100,A,"1200 N DIAMOND AV, SOUTH BEND, 46628",R,0,StreetAddress,1200 N Diamond Ave. ,South Bend,,IN,2017/02/09 05:00:00+00,1200 N Diamond Ave. ,South Bend,IN,No,2017
+-86.26989029,41.68739612,53,Danielle-Cente,M,100,A,"900 N DIAMOND AV, SOUTH BEND, 46628",R,0,StreetAddress,900 N Diamond Ave. ,South Bend,,IN,2016/07/03 05:00:00+00,900 N Diamond Ave. ,South Bend,IN,No,2016
+-86.26717703,41.65222903,54,Danielle-Cente,M,90.87,A,"1200 W DONALD ST, SOUTH BEND, 46613",L,0,StreetAddress,1200 E Donald St. ,South Bend,,IN,2017/04/15 05:00:00+00,1200 E Donald St. ,South Bend,IN,No,2017
+-86.24606021,41.65257353,55,Danielle-Cente,M,100,A,"300 E DONALD ST, SOUTH BEND, 46613",L,0,StreetAddress,300 E Donald St. ,South Bend,,IN,2017/12/01 05:00:00+00,300 E Donald St. ,South Bend,IN,No,2017
+-86.24606021,41.65257353,56,Danielle-Cente,M,100,A,"300 E DONALD ST, SOUTH BEND, 46613",L,0,StreetAddress,300 E Donald St. ,South Bend,,IN,2016/07/24 05:00:00+00,300 E Donald St. ,South Bend,IN,No,2016
+-86.24790964,41.65685556,57,Danielle-Cente,T,86.3,A,"202 E DUBAIL AV, SOUTH BEND, 46613",L,0,StreetAddress,200 E Dubail St. ,South Bend,,IN,2015/11/09 05:00:00+00,200 E Dubail St. ,South Bend,IN,No,2015
+-86.26106568,41.65638367,58,Danielle-Cente,M,89.04,A,"800 W DUBAIL AV, SOUTH BEND, 46613",L,0,StreetAddress,800 W Dubail St. ,South Bend,,IN,2017/08/29 05:00:00+00,800 W Dubail St. ,South Bend,IN,No,2017
+-86.27170147,41.66669761,59,Danielle-Cente,M,100,A,"1500 W DUNHAM ST, SOUTH BEND, 46619",L,0,StreetAddress,1500 W Dunham St. ,South Bend,,IN,2017/05/02 05:00:00+00,1500 W Dunham St. ,South Bend,IN,No,2017
+-86.24965068,41.64619997,60,Danielle-Cente,M,100,A,"100 E ECKMAN ST, SOUTH BEND, 46614",R,0,StreetAddress,100 E Eckman St. ,South Bend,,IN,2015/05/19 05:00:00+00,100 E Eckman St. ,South Bend,IN,No,2015
+-86.24517558,41.64631338,61,Danielle-Cente,M,100,A,"400 E ECKMAN ST, SOUTH BEND, 46614",R,0,StreetAddress,400 E Eckman St. ,South Bend,,IN,2017/06/15 05:00:00+00,400 E Eckman St. ,South Bend,IN,No,2017
+-86.23549238,41.69122021,62,Danielle-Cente,M,100,A,"1231 N EDDY ST, SOUTH BEND, 46617",L,0,StreetAddress,400 N Eddy St. ,South Bend,,IN,2015/01/01 05:00:00+00,400 N Eddy St. ,South Bend,IN,No,2015
+-86.28257342,41.6927099,63,Danielle-Cente,M,100,A,"1300 N ELMER ST, SOUTH BEND, 46628",R,0,StreetAddress,1300 N Elmer St. ,South Bend,,IN,2016/12/02 05:00:00+00,1300 N Elmer St. ,South Bend,IN,No,2016
+-86.2826524,41.69744067,64,Danielle-Cente,M,79,A,"1701 N ELMER ST, SOUTH BEND, 46628",L,0,StreetAddress,1700 N Elmer St. ,South Bend,,IN,2016/08/01 05:00:00+00,1700 N Elmer St. ,South Bend,IN,No,2016
+-86.27652507,41.69387587,65,Danielle-Cente,M,100,A,"1800 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,1800 W Elwood Ave. ,South Bend,,IN,2015/02/26 05:00:00+00,1800 W Elwood Ave. ,South Bend,IN,No,2015
+-86.28014962,41.69384744,66,Danielle-Cente,M,89.04,A,"2100 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,2100 W Elwood St. ,South Bend,,IN,2016/07/08 05:00:00+00,2100 W Elwood St. ,South Bend,IN,No,2016
+-86.28259167,41.69382372,67,Danielle-Cente,M,100,A,"2300 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,2300 W Elwood Ave. ,South Bend,,IN,2016/10/16 05:00:00+00,2300 W Elwood Ave. ,South Bend,IN,No,2016
+-86.28259167,41.69382372,68,Danielle-Cente,M,100,A,"2300 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,2300 W Elwood Ave. ,South Bend,,IN,2016/10/16 05:00:00+00,2300 W Elwood Ave. ,South Bend,IN,No,2016
+-86.2478453,41.6507055,69,Danielle-Cente,M,100,A,"200 E EWING AV, SOUTH BEND, 46614",L,0,StreetAddress,200 E Ewing Ave. ,South Bend,,IN,2017/01/01 05:00:00+00,200 E Ewing Ave. ,South Bend,IN,No,2017
+-86.24782043,41.64793758,70,Danielle-Cente,M,89.04,A,"200 E FAIRVIEW AV, SOUTH BEND, 46614",L,0,StreetAddress,200 E Fairview St. ,South Bend,,IN,2015/04/17 05:00:00+00,200 E Fairview St. ,South Bend,IN,No,2015
+-86.29720798,41.67013508,71,Danielle-Cente,M,79,A,"501 S FALCON ST, SOUTH BEND, 46619",L,0,StreetAddress,500 S Falcon St. ,South Bend,,IN,2015/04/19 05:00:00+00,500 S Falcon St. ,South Bend,IN,No,2015
+-86.27186855,41.68219445,72,Danielle-Cente,M,89.04,A,"1400 W FASSNACHT ST, SOUTH BEND, 46628",L,0,StreetAddress,1400 W Fassnacht Ave. ,South Bend,,IN,2016/06/24 05:00:00+00,1400 W Fassnacht Ave. ,South Bend,IN,Yes,2016
+-86.27387415,41.68217127,73,Danielle-Cente,M,89.04,A,"1600 W FASSNACHT ST, SOUTH BEND, 46628",L,0,StreetAddress,1600 W Fassnacht Ave. ,South Bend,,IN,2017/05/29 05:00:00+00,1600 W Fassnacht Ave. ,South Bend,IN,No,2017
+-86.28638778,41.71830156,74,Danielle-Cente,T,100,A,"2502 W FLINT CT, SOUTH BEND, 46628",L,0,StreetAddress,2400 W Flint Ct. ,South Bend,,IN,2016/04/10 05:00:00+00,2400 W Flint Ct. ,South Bend,IN,Yes,2016
+-86.31950245,41.66583933,75,Danielle-Cente,T,100,A,"5139 W FORD ST, SOUTH BEND, 46619",L,0,StreetAddress,1500 W Ford St. ,South Bend,,IN,2015/08/01 05:00:00+00,1500 W Ford St. ,South Bend,IN,No,2015
+-86.23691398,41.68058657,76,Danielle-Cente,M,100,A,"400 N FRANCES ST, SOUTH BEND, 46617",R,0,StreetAddress,400 N Frances St. ,South Bend,,IN,2016/06/28 05:00:00+00,400 N Frances St. ,South Bend,IN,No,2016
+-86.25451486,41.65156898,77,Danielle-Cente,M,100,A,"2200 S FRANKLIN ST, SOUTH BEND, 46613",L,0,StreetAddress,2200 S Franklin St. ,South Bend,,IN,2015/07/11 05:00:00+00,2200 S Franklin St. ,South Bend,IN,Yes,2015
+-86.29227919,41.685519,78,Danielle-Cente,T,88.59,A,"FREDERICKSON ST, SOUTH BEND, 46628",L,0,StreetAddress,2000 W Frederickson St. ,South Bend,,IN,2017/06/01 05:00:00+00,2000 W Frederickson St. ,South Bend,IN,No,2017
+-86.29227919,41.685519,79,Danielle-Cente,T,88.59,A,"FREDERICKSON ST, SOUTH BEND, 46628",L,0,StreetAddress,2100 W Frederickson St. ,South Bend,,IN,2017/08/02 05:00:00+00,2100 W Frederickson St. ,South Bend,IN,Yes,2017
+-86.29227919,41.685519,80,Danielle-Cente,T,88.59,A,"FREDERICKSON ST, SOUTH BEND, 46628",L,0,StreetAddress,2100 W Frederickson St. ,South Bend,,IN,2017/08/02 05:00:00+00,2100 W Frederickson St. ,South Bend,IN,Yes,2017
+-86.29227919,41.685519,81,Danielle-Cente,T,88.59,A,"FREDERICKSON ST, SOUTH BEND, 46628",L,0,StreetAddress,2100 W Frederickson St. ,South Bend,,IN,2017/08/02 05:00:00+00,2100 W Frederickson St. ,South Bend,IN,No,2017
+-86.29227919,41.685519,82,Danielle-Cente,T,88.59,A,"FREDERICKSON ST, SOUTH BEND, 46628",L,0,StreetAddress,2100 W Frederickson St. ,South Bend,,IN,2017/08/02 05:00:00+00,2100 W Frederickson St. ,South Bend,IN,No,2017
+-86.29227919,41.685519,83,Danielle-Cente,T,88.59,A,"FREDERICKSON ST, SOUTH BEND, 46628",L,0,StreetAddress,2400 W Frederickson St. ,South Bend,,IN,2015/06/09 05:00:00+00,2400 W Frederickson St. ,South Bend,IN,Yes,2015
+-86.28503439,41.70142558,84,Danielle-Cente,M,100,A,"1900 N FREMONT ST, SOUTH BEND, 46628",R,0,StreetAddress,1900 N Fremont St. ,South Bend,,IN,2017/09/22 05:00:00+00,1900 N Fremont St. ,South Bend,IN,No,2017
+-86.30686857,41.67788576,85,Danielle-Cente,M,100,A,"200 N GLADSTONE ST, SOUTH BEND, 46619",R,0,StreetAddress,200 N Gladstone St. ,South Bend,,IN,2016/12/20 05:00:00+00,200 N Gladstone St. ,South Bend,IN,No,2016
+-86.21834421,41.65634336,86,Danielle-Cente,T,100,A,"1905 E GOODSON CT, SOUTH BEND, 46613",R,0,StreetAddress,1900 E Goodson Ct. ,South Bend,,IN,2015/12/06 05:00:00+00,1900 E Goodson Ct. ,South Bend,IN,No,2015
+-86.21834421,41.65634336,87,Danielle-Cente,T,100,A,"1905 E GOODSON CT, SOUTH BEND, 46613",R,0,StreetAddress,1900 E Goodson Ct. ,South Bend,,IN,2015/12/06 05:00:00+00,1900 E Goodson Ct. ,South Bend,IN,No,2015
+-86.27195219,41.6702125,88,Danielle-Cente,M,100,A,"500 S HARRIS ST, SOUTH BEND, 46619",L,0,StreetAddress,500 S Harris St. ,South Bend,,IN,2016/11/10 05:00:00+00,500 S Harris St. ,South Bend,IN,No,2016
+-86.23919622,41.64084048,89,Danielle-Cente,M,100,A,"3300 S HIGH ST, SOUTH BEND, 46614",L,0,StreetAddress,3300 S High St. ,South Bend,,IN,2015/12/24 05:00:00+00,3300 S High St. ,South Bend,IN,Yes,2015
+-86.23919622,41.64084048,90,Danielle-Cente,M,100,A,"3300 S HIGH ST, SOUTH BEND, 46614",L,0,StreetAddress,3300 S High St. ,South Bend,,IN,2016/10/16 05:00:00+00,3300 S High St. ,South Bend,IN,No,2016
+-86.23936241,41.63873995,91,Danielle-Cente,M,100,A,"3500 S HIGH ST, SOUTH BEND, 46614",L,0,StreetAddress,3500 S High St. ,South Bend,,IN,2017/01/26 05:00:00+00,3500 S High St. ,South Bend,IN,Yes,2017
+-86.22219495,41.64660165,92,Danielle-Cente,M,100,A,"2700 S HILLTOP DR, SOUTH BEND, 46614",L,0,StreetAddress,2700 S Hilltop Dr. ,South Bend,,IN,2015/01/11 05:00:00+00,2700 S Hilltop Dr. ,South Bend,IN,No,2015
+-86.22214005,41.64524591,93,Danielle-Cente,M,98.4,A,"2900 S HILLTOP DR, SOUTH BEND, 46614",L,0,StreetAddress,2900 S Hiltop Dr. ,South Bend,,IN,2015/09/22 05:00:00+00,2900 S Hiltop Dr. ,South Bend,IN,No,2015
+-86.2812826,41.68922265,94,Danielle-Cente,M,100,A,"1100 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Huey St. ,South Bend,,IN,2017/07/06 05:00:00+00,1100 N Huey St. ,South Bend,IN,No,2017
+-86.2812826,41.68922265,95,Danielle-Cente,M,100,A,"1100 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Huey St. ,South Bend,,IN,2015/06/17 05:00:00+00,1100 N Huey St. ,South Bend,IN,No,2015
+-86.2812826,41.68922265,96,Danielle-Cente,M,100,A,"1100 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Huey St. ,South Bend,,IN,2016/04/15 05:00:00+00,1100 N Huey St. ,South Bend,IN,No,2016
+-86.28139758,41.69567494,97,Danielle-Cente,M,100,A,"1600 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,1600 N Huey St. ,South Bend,,IN,2015/03/03 05:00:00+00,1600 N Huey St. ,South Bend,IN,No,2015
+-86.28139758,41.69567494,98,Danielle-Cente,M,100,A,"1600 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,1600 N Huey St. ,South Bend,,IN,2015/05/28 05:00:00+00,1600 N Huey St. ,South Bend,IN,No,2015
+-86.28158006,41.70462153,99,Danielle-Cente,T,100,A,"2101 N HUEY ST, SOUTH BEND, 46628",L,0,StreetAddress,800 N Huey St. ,South Bend,,IN,2017/11/26 05:00:00+00,800 N Huey St. ,South Bend,IN,No,2017
+-86.27525819,41.69083001,100,Danielle-Cente,M,85.8,A,"1700 W HUMBOLDT ST, SOUTH BEND, 46628",L,0,StreetAddress,1700 W Humbolt St. ,South Bend,,IN,2016/10/20 05:00:00+00,1700 W Humbolt St. ,South Bend,IN,No,2016
+-86.30096005,41.6755439,101,Danielle-Cente,M,100,A,"117 N ILLINOIS ST, SOUTH BEND, 46619",L,0,StreetAddress,100 N Illinois St. ,South Bend,,IN,2015/07/21 05:00:00+00,100 N Illinois St. ,South Bend,IN,No,2015
+-86.30096005,41.6755439,102,Danielle-Cente,M,100,A,"117 N ILLINOIS ST, SOUTH BEND, 46619",L,0,StreetAddress,100 N Illinois St. ,South Bend,,IN,2015/12/23 05:00:00+00,100 N Illinois St. ,South Bend,IN,No,2015
+-86.24991443,41.65792602,103,Danielle-Cente,M,90.87,A,"100 E INDIANA AV, SOUTH BEND, 46613",R,0,StreetAddress,100 W Indiana Ave. ,South Bend,,IN,2017/03/30 05:00:00+00,100 W Indiana Ave. ,South Bend,IN,No,2017
+-86.2636609,41.65760565,104,Danielle-Cente,M,100,A,"1000 W INDIANA AV, SOUTH BEND, 46613",L,0,StreetAddress,1000 W Indiana Ave. ,South Bend,,IN,2017/11/25 05:00:00+00,1000 W Indiana Ave. ,South Bend,IN,No,2017
+-86.2636609,41.65760565,105,Danielle-Cente,M,100,A,"1000 W INDIANA AV, SOUTH BEND, 46613",L,0,StreetAddress,1000 W Indiana Ave. ,South Bend,,IN,2017/11/25 05:00:00+00,1000 W Indiana Ave. ,South Bend,IN,Yes,2017
+-86.2636609,41.65760565,106,Danielle-Cente,M,100,A,"1000 W INDIANA AV, SOUTH BEND, 46613",L,0,StreetAddress,1000 W Indiana Ave. ,South Bend,,IN,2015/07/29 05:00:00+00,1000 W Indiana Ave. ,South Bend,IN,No,2015
+-86.2349808,41.65858689,107,Danielle-Cente,M,100,A,"1100 E INDIANA AV, SOUTH BEND, 46613",R,0,StreetAddress,1100 E Indiana Ave. ,South Bend,,IN,2017/06/05 05:00:00+00,1100 E Indiana Ave. ,South Bend,IN,No,2017
+-86.24099564,41.65814403,108,Danielle-Cente,M,100,A,"700 E INDIANA AV, SOUTH BEND, 46613",R,0,StreetAddress,700 E Indiana Ave. ,South Bend,,IN,2016/12/05 05:00:00+00,700 E Indiana Ave. ,South Bend,IN,No,2016
+-86.21650013,41.69813519,109,Danielle-Cente,M,100,A,"1700 N IRONWOOD DR, SOUTH BEND, 46635",R,0,StreetAddress,1700 N Ironwood Dr. ,South Bend,,IN,2017/08/19 05:00:00+00,1700 N Ironwood Dr. ,South Bend,IN,No,2017
+-86.29971747,41.6740395,110,Danielle-Cente,M,79,A,"3701 W JEFFERSON BLVD, SOUTH BEND, 46619",R,0,StreetAddress,3700 W Jefferson Blvd. ,South Bend,,IN,2017/04/28 05:00:00+00,3700 W Jefferson Blvd. ,South Bend,IN,No,2017
+-86.29971747,41.6740395,111,Danielle-Cente,M,79,A,"3701 W JEFFERSON BLVD, SOUTH BEND, 46619",R,0,StreetAddress,3700 W Jefferson Blvd. ,South Bend,,IN,2017/09/26 05:00:00+00,3700 W Jefferson Blvd. ,South Bend,IN,No,2017
+-86.27261011,41.67492525,112,Danielle-Cente,T,100,A,"1420 W JEFFERSON BLVD, SOUTH BEND, 46601",L,0,StreetAddress,3800 W Jefferson Blvd. ,South Bend,,IN,2017/07/23 05:00:00+00,3800 W Jefferson Blvd. ,South Bend,IN,No,2017
+-86.27890672,41.6907929,113,Danielle-Cente,M,79,A,"1201 N JOHNSON ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 N Johnson St. ,South Bend,,IN,2015/03/30 05:00:00+00,1200 N Johnson St. ,South Bend,IN,No,2015
+-86.27899988,41.69570244,114,Danielle-Cente,M,100,A,"1600 N JOHNSON ST, SOUTH BEND, 46628",R,0,StreetAddress,1600 N Johnson St. ,South Bend,,IN,2017/10/11 05:00:00+00,1600 N Johnson St. ,South Bend,IN,No,2017
+-86.27890672,41.6907929,115,Danielle-Cente,T,100,A,"1201 N JOHNSON ST, SOUTH BEND, 46628",L,0,StreetAddress,300 N Johnson St. ,South Bend,,IN,2016/05/17 05:00:00+00,300 N Johnson St. ,South Bend,IN,No,2016
+-86.27228613,41.6975873,116,Danielle-Cente,M,100,A,"1500 W KELLER ST, SOUTH BEND, 46628",L,0,StreetAddress,1500 W Keller St. ,South Bend,,IN,2017/09/23 05:00:00+00,1500 W Keller St. ,South Bend,IN,No,2017
+-86.25988963,41.65143188,117,Danielle-Cente,M,100,A,"2200 S KENDALL ST, SOUTH BEND, 0",L,0,StreetAddress,2200 S Kendall St. ,South Bend,,IN,2017/05/18 05:00:00+00,2200 S Kendall St. ,South Bend,IN,No,2017
+-86.25988963,41.65143188,118,Danielle-Cente,M,100,A,"2200 S KENDALL ST, SOUTH BEND, 0",L,0,StreetAddress,2200 S Kendall St. ,South Bend,,IN,2017/05/18 05:00:00+00,2200 S Kendall St. ,South Bend,IN,Yes,2017
+-86.29366581,41.67559623,119,Danielle-Cente,M,100,A,"100 S KENTUCKY ST, SOUTH BEND, 46619",L,0,StreetAddress,100 S Kentucky St. ,South Bend,,IN,2017/03/02 05:00:00+00,100 S Kentucky St. ,South Bend,IN,No,2017
+-86.2936004,41.67198354,120,Danielle-Cente,M,100,A,"400 S KENTUCKY ST, SOUTH BEND, 46619",L,0,StreetAddress,400 S Kentucky St. ,South Bend,,IN,2015/11/15 05:00:00+00,400 S Kentucky St. ,South Bend,IN,No,2015
+-86.28496632,41.68066674,121,Danielle-Cente,M,90.87,A,"2500 KENWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,2500 W Kenwood Ave. ,South Bend,,IN,2016/05/21 05:00:00+00,2500 W Kenwood Ave. ,South Bend,IN,No,2016
+-86.27047522,41.69711837,122,Danielle-Cente,M,100,A,"1300 W KINYON ST, SOUTH BEND, 46616",L,0,StreetAddress,1300 W Kinyon St. ,South Bend,,IN,2015/08/27 05:00:00+00,1300 W Kinyon St. ,South Bend,IN,No,2015
+-86.27047522,41.69711837,123,Danielle-Cente,M,100,A,"1300 W KINYON ST, SOUTH BEND, 46616",L,0,StreetAddress,1300 W Kinyon St. ,South Bend,,IN,2015/09/05 05:00:00+00,1300 W Kinyon St. ,South Bend,IN,No,2015
+-86.27409545,41.66666701,124,Danielle-Cente,M,100,A,"800 S KOSCIUSZKO ST, SOUTH BEND, 46619",L,0,StreetAddress,800 S Kosciuszko St. ,South Bend,,IN,2016/09/14 05:00:00+00,800 S Kosciuszko St. ,South Bend,IN,No,2016
+-86.25363421,41.67907005,125,Danielle-Cente,M,100,A,"300 N LAFAYETTE BLVD, SOUTH BEND, 46601",R,0,StreetAddress,300 N Lafayette Blvd. ,South Bend,,IN,2015/08/01 05:00:00+00,300 N Lafayette Blvd. ,South Bend,IN,Yes,2015
+-86.25363421,41.67907005,126,Danielle-Cente,M,100,A,"300 N LAFAYETTE BLVD, SOUTH BEND, 46601",R,0,StreetAddress,300 N Lafayette Blvd. ,South Bend,,IN,2015/08/01 05:00:00+00,300 N Lafayette Blvd. ,South Bend,IN,No,2015
+-86.25366445,41.68041726,127,Danielle-Cente,M,89.04,A,"400 N LAFAYETTE BLVD, SOUTH BEND, 46601",R,0,StreetAddress,400 N Lafayette St. ,South Bend,,IN,2015/12/12 05:00:00+00,400 N Lafayette St. ,South Bend,IN,No,2015
+-86.29607046,41.67406691,128,Danielle-Cente,T,100,A,"141 S LAKE ST, SOUTH BEND, 46619",L,0,StreetAddress,200 S Lake St. ,South Bend,,IN,2015/04/24 05:00:00+00,200 S Lake St. ,South Bend,IN,No,2015
+-86.27193233,41.68322957,129,Danielle-Cente,T,86.3,A,"673 N LAWNDALE AV, SOUTH BEND, 46628",L,0,StreetAddress,1000 N Lawndale St. ,South Bend,,IN,2016/08/27 05:00:00+00,1000 N Lawndale St. ,South Bend,IN,Yes,2016
+-86.2382445,41.6597766,130,Danielle-Cente,M,100,A,"1500 S LEBANON ST, SOUTH BEND, 46613",L,0,StreetAddress,1500 S Lebanon St. ,South Bend,,IN,2017/09/23 05:00:00+00,1500 S Lebanon St. ,South Bend,IN,Yes,2017
+-86.2382445,41.6597766,131,Danielle-Cente,M,100,A,"1500 S LEBANON ST, SOUTH BEND, 46613",L,0,StreetAddress,1500 S Lebanon St. ,South Bend,,IN,2017/09/23 05:00:00+00,1500 S Lebanon St. ,South Bend,IN,No,2017
+-86.29011573,41.67411167,132,Danielle-Cente,T,100,A,"141 S LIBERTY ST, SOUTH BEND, 46619",L,0,StreetAddress,700 S Liberty St. ,South Bend,,IN,2015/01/29 05:00:00+00,700 S Liberty St. ,South Bend,IN,No,2015
+-86.33500465,41.70398762,133,Danielle-Cente,T,100,A,"LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1100 Lincoln Way West ,South Bend,,IN,2015/04/27 05:00:00+00,1100 Lincoln Way West ,South Bend,IN,No,2015
+-86.26158807,41.7426498,134,Danielle-Cente,M,100,A,"724 N LINDENWOOD DR, SOUTH BEND, 46637",L,0,StreetAddress,800 N Lindenwood Dr. ,South Bend,,IN,2017/02/10 05:00:00+00,800 N Lindenwood Dr. ,South Bend,IN,No,2017
+-86.2624246,41.68392019,135,Danielle-Cente,M,89.04,A,"900 W LINDSEY AV, SOUTH BEND, 46616",L,0,StreetAddress,900 W Lindsey St. ,South Bend,,IN,2017/02/04 05:00:00+00,900 W Lindsey St. ,South Bend,IN,No,2017
+-86.19644962,41.66059711,136,Danielle-Cente,T,100,A,"S LOGAN ST, SOUTH BEND, 46615",L,0,StreetAddress,100 S Logan St. ,South Bend,,IN,2017/04/30 05:00:00+00,100 S Logan St. ,South Bend,IN,Yes,2017
+-86.19644962,41.66059711,137,Danielle-Cente,T,100,A,"S LOGAN ST, SOUTH BEND, 46615",L,0,StreetAddress,100 S Logan St. ,South Bend,,IN,2017/04/30 05:00:00+00,100 S Logan St. ,South Bend,IN,No,2017
+-86.24714382,41.63484793,138,Danielle-Cente,M,100,A,"300 E LUELDE ST, SOUTH BEND, 46614",R,0,StreetAddress,300 E Luelde St. ,South Bend,,IN,2015/06/20 05:00:00+00,300 E Luelde St. ,South Bend,IN,No,2015
+-86.2352666,41.68060158,139,Danielle-Cente,M,79,A,"1101 E MADISON ST, SOUTH BEND, 46617",R,0,StreetAddress,1100 E Madison St. ,South Bend,,IN,2017/09/18 05:00:00+00,1100 E Madison St. ,South Bend,IN,No,2017
+-86.2352666,41.68060158,140,Danielle-Cente,M,79,A,"1101 E MADISON ST, SOUTH BEND, 46617",R,0,StreetAddress,1100 E Madison St. ,South Bend,,IN,2017/09/18 05:00:00+00,1100 E Madison St. ,South Bend,IN,No,2017
+-86.23303282,41.68059653,141,Danielle-Cente,M,79,A,"1201 E MADISON ST, SOUTH BEND, 46617",R,0,StreetAddress,1200 E Madison St. ,South Bend,,IN,2017/02/16 05:00:00+00,1200 E Madison St. ,South Bend,IN,No,2017
+-86.25152694,41.63974613,142,Danielle-Cente,T,100,A,"3401 S MAIN ST, SOUTH BEND, 46614",L,0,StreetAddress,1100 S Main St. ,South Bend,,IN,2016/12/03 05:00:00+00,1100 S Main St. ,South Bend,IN,Yes,2016
+-86.204835,41.68111749,143,Danielle-Cente,T,100,A,"339 N MANCHESTER DR, SOUTH BEND, 46615",L,0,StreetAddress,300 N Manchester Dr. ,South Bend,,IN,2015/05/17 05:00:00+00,300 N Manchester Dr. ,South Bend,IN,Yes,2015
+-86.24111484,41.66236242,144,Danielle-Cente,T,100,A,"S MARIETTA ST, SOUTH BEND, 46601",L,0,StreetAddress,1400 S Marietta St. ,South Bend,,IN,2015/08/24 05:00:00+00,1400 S Marietta St. ,South Bend,IN,No,2015
+-86.23205667,41.65858507,145,Danielle-Cente,M,100,A,"1600 S MARINE ST, SOUTH BEND, 46613",L,0,StreetAddress,1600 S Marine St. ,South Bend,,IN,2017/11/24 05:00:00+00,1600 S Marine St. ,South Bend,IN,No,2017
+-86.2861216,41.69240367,146,Danielle-Cente,M,100,A,"1300 N MEADE ST, SOUTH BEND, 46628",R,0,StreetAddress,1300 N Meade St. ,South Bend,,IN,2015/05/08 05:00:00+00,1300 N Meade St. ,South Bend,IN,No,2015
+-86.28652501,41.68646597,147,Danielle-Cente,M,100,A,"900 N MEADE ST, SOUTH BEND, 46628",R,0,StreetAddress,900 N Meade St. ,South Bend,,IN,2015/07/19 05:00:00+00,900 N Meade St. ,South Bend,IN,No,2015
+-86.30834719,41.66175976,148,Danielle-Cente,M,100,A,"4400 W MEADOW LN, SOUTH BEND, 46619",L,0,StreetAddress,4400 W Meadow Ln. ,South Bend,,IN,2016/10/06 05:00:00+00,4400 W Meadow Ln. ,South Bend,IN,Yes,2016
+-86.24989102,41.65680213,149,Danielle-Cente,M,79,A,"1601 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,1600 S Michigan St. ,South Bend,,IN,2015/09/20 05:00:00+00,1600 S Michigan St. ,South Bend,IN,No,2015
+-86.24981518,41.65430592,150,Danielle-Cente,M,79,A,"2001 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,2000 S Michigan St. ,South Bend,,IN,2015/01/25 05:00:00+00,2000 S Michigan St. ,South Bend,IN,No,2015
+-86.24981518,41.65430592,151,Danielle-Cente,M,79,A,"2001 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,2000 S Michigan St. ,South Bend,,IN,2016/08/07 05:00:00+00,2000 S Michigan St. ,South Bend,IN,No,2016
+-86.24975479,41.65269924,152,Danielle-Cente,T,79,A,"2101 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,2100 S Michigan St. ,South Bend,,IN,2016/07/13 05:00:00+00,2100 S Michigan St. ,South Bend,IN,No,2016
+-86.24975479,41.65269924,153,Danielle-Cente,T,79,A,"2101 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,2100 S Michigan St. ,South Bend,,IN,2016/07/26 05:00:00+00,2100 S Michigan St. ,South Bend,IN,No,2016
+-86.24975689,41.65295784,154,Danielle-Cente,T,79,A,"2201 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,2200 S Michigan St. ,South Bend,,IN,2017/06/15 05:00:00+00,2200 S Michigan St. ,South Bend,IN,No,2017
+-86.25007416,41.63826241,155,Danielle-Cente,T,100,A,"3507 S MICHIGAN ST, SOUTH BEND, 46614",L,0,StreetAddress,2600 S Michigan St. ,South Bend,,IN,2017/03/16 05:00:00+00,2600 S Michigan St. ,South Bend,IN,No,2017
+-86.24965261,41.6464142,156,Danielle-Cente,M,79,A,"2701 S MICHIGAN ST, SOUTH BEND, 46614",L,0,StreetAddress,2700 S Michigan St. ,South Bend,,IN,2017/05/23 05:00:00+00,2700 S Michigan St. ,South Bend,IN,No,2017
+-86.25007416,41.63826241,157,Danielle-Cente,T,100,A,"3507 S MICHIGAN ST, SOUTH BEND, 46614",L,0,StreetAddress,3000 S Michigan St. ,South Bend,,IN,2017/03/12 05:00:00+00,3000 S Michigan St. ,South Bend,IN,Yes,2017
+-86.24983726,41.64070594,158,Danielle-Cente,M,79,A,"3201 S MICHIGAN ST, SOUTH BEND, 46614",L,0,StreetAddress,3200 S Michigan St. ,South Bend,,IN,2017/01/11 05:00:00+00,3200 S Michigan St. ,South Bend,IN,No,2017
+-86.24787969,41.65485074,159,Danielle-Cente,T,100,A,"136 E MILTON ST, SOUTH BEND, 46613",L,0,StreetAddress,200 E Milton St. ,South Bend,,IN,2016/06/08 05:00:00+00,200 E Milton St. ,South Bend,IN,No,2016
+-86.22821837,41.66585772,160,Danielle-Cente,M,100,A,"1400 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,1400 E Mishawaka Ave. ,South Bend,,IN,2017/03/10 05:00:00+00,1400 E Mishawaka Ave. ,South Bend,IN,No,2017
+-86.21162653,41.66572508,161,Danielle-Cente,M,100,A,"2500 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,2500 E Mishawaka Ave. ,South Bend,,IN,2017/03/10 05:00:00+00,2500 E Mishawaka Ave. ,South Bend,IN,No,2017
+-86.25711105,41.67125736,162,Danielle-Cente,M,89.04,A,"600 W MONROE CIR, SOUTH BEND, 46601",L,0,StreetAddress,600 W Monroe St. ,South Bend,,IN,2017/10/30 05:00:00+00,600 W Monroe St. ,South Bend,IN,No,2017
+-86.26439039,41.68000328,163,Danielle-Cente,M,79,A,"1001 W OAK ST, SOUTH BEND, 46616",R,0,StreetAddress,1000 W Oak St. ,South Bend,,IN,2017/11/18 05:00:00+00,1000 W Oak St. ,South Bend,IN,No,2017
+-86.28002926,41.68721268,164,Danielle-Cente,M,100,A,"1000 N O'BRIEN ST, SOUTH BEND, 46628",R,0,StreetAddress,1000 N O'Brien St. ,South Bend,,IN,2016/04/11 05:00:00+00,1000 N O'Brien St. ,South Bend,IN,No,2016
+-86.28008577,41.69078408,165,Danielle-Cente,M,79,A,"1201 N O'BRIEN ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 N O'Brien St. ,South Bend,,IN,2017/07/04 05:00:00+00,1200 N O'Brien St. ,South Bend,IN,No,2017
+-86.28012581,41.69266038,166,Danielle-Cente,M,100,A,"1300 N O'BRIEN ST, SOUTH BEND, 46628",R,0,StreetAddress,1300 N O'Brien St. ,South Bend,,IN,2017/04/06 05:00:00+00,1300 N O'Brien St. ,South Bend,IN,Yes,2017
+-86.28020583,41.69747201,167,Danielle-Cente,M,100,A,"1700 N O'BRIEN ST, SOUTH BEND, 46628",R,0,StreetAddress,1700 N O'Brien St. ,South Bend,,IN,2015/10/24 05:00:00+00,1700 N O'Brien St. ,South Bend,IN,No,2015
+-86.28020583,41.69747201,168,Danielle-Cente,M,100,A,"1700 N O'BRIEN ST, SOUTH BEND, 46628",R,0,StreetAddress,1700 N O'Brien St. ,South Bend,,IN,2015/10/24 05:00:00+00,1700 N O'Brien St. ,South Bend,IN,No,2015
+-86.28005174,41.68923547,169,Danielle-Cente,M,100,A,"1100 N O'BRIEN ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N O'Brien St. ,South Bend,,IN,2016/06/25 05:00:00+00,1100 N O'Brien St. ,South Bend,IN,No,2016
+-86.28378232,41.6938219,170,Danielle-Cente,M,100,A,"1400 N OLIVE ST, SOUTH BEND, 46628",R,0,StreetAddress,1400 N Olive St. ,South Bend,,IN,2015/03/02 05:00:00+00,1400 N Olive St. ,South Bend,IN,Yes,2015
+-86.28375896,41.69191566,171,Danielle-Cente,T,100,A,"1301 N OLIVE ST, SOUTH BEND, 46628",L,0,StreetAddress,300 N Olive St. ,South Bend,,IN,2015/04/19 05:00:00+00,300 N Olive St. ,South Bend,IN,No,2015
+-86.28352116,41.68067897,172,Danielle-Cente,M,100,A,"400 N OLIVE ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Olive St. ,South Bend,,IN,2015/10/15 05:00:00+00,400 N Olive St. ,South Bend,IN,No,2015
+-86.28352116,41.68067897,173,Danielle-Cente,M,100,A,"400 N OLIVE ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Olive St. ,South Bend,,IN,2015/10/15 05:00:00+00,400 N Olive St. ,South Bend,IN,No,2015
+-86.28352116,41.68067897,174,Danielle-Cente,M,100,A,"400 N OLIVE ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Olive St. ,South Bend,,IN,2016/07/04 05:00:00+00,400 N Olive St. ,South Bend,IN,No,2016
+-86.23491522,41.65374916,175,Danielle-Cente,M,74.89,M,"2001 MIAMI RD, SOUTH BEND, 46613",L,0,StreetAddress,2000 S Miami St. ,South Bend,,IN,2015/07/19 05:00:00+00,2000 S Miami St. ,South Bend,IN,No,2015
+-86.28329918,41.67207278,176,Danielle-Cente,M,100,A,"315 S OLIVE ST, SOUTH BEND, 46619",L,0,StreetAddress,800 S Olive St. ,South Bend,,IN,2015/09/06 05:00:00+00,800 S Olive St. ,South Bend,IN,Yes,2015
+-86.28364354,41.68615844,177,Danielle-Cente,M,85.3,A,"W PRAST BLVD & N OLIVE ST, SOUTH BEND, 46628",,,StreetInt,Prast & Olive St.,South Bend,,IN,2016/10/19 05:00:00+00,Prast & Olive St.,South Bend,IN,No,2016
+-86.20555129,41.68888102,178,Danielle-Cente,M,100,A,"1000 N PATTY LN, SOUTH BEND, 46615",R,0,StreetAddress,1000 N Patty Ln. ,South Bend,,IN,2017/08/12 05:00:00+00,1000 N Patty Ln. ,South Bend,IN,No,2017
+-86.20625309,41.68753805,179,Danielle-Cente,M,100,A,"1001 N PATTY LN, SOUTH BEND, 46615",L,0,StreetAddress,900 N Patty Ln. ,South Bend,,IN,2016/01/15 05:00:00+00,900 N Patty Ln. ,South Bend,IN,No,2016
+-86.20625309,41.68753805,180,Danielle-Cente,M,100,A,"1001 N PATTY LN, SOUTH BEND, 46615",L,0,StreetAddress,900 N Patty Ln. ,South Bend,,IN,2016/06/11 05:00:00+00,900 N Patty Ln. ,South Bend,IN,No,2016
+-86.2660406,41.69104867,181,Danielle-Cente,M,100,A,"1200 N PORTAGE AV, SOUTH BEND, 46616",R,0,StreetAddress,1200 N Portage Ave. ,South Bend,,IN,2016/03/06 05:00:00+00,1200 N Portage Ave. ,South Bend,IN,No,2016
+-86.26914601,41.693949,182,Danielle-Cente,T,100,A,"1355 N PORTAGE AV, SOUTH BEND, 46628",L,0,StreetAddress,1400 N Portage Ave. ,South Bend,,IN,2017/06/24 05:00:00+00,1400 N Portage Ave. ,South Bend,IN,No,2017
+-86.28826482,41.72603692,183,Danielle-Cente,M,79.91,A,"3600 PORTAGE RD, SOUTH BEND, 46628",R,0,StreetAddress,3600 N Portage Ave. ,South Bend,,IN,2015/11/10 05:00:00+00,3600 N Portage Ave. ,South Bend,IN,No,2015
+-86.28511803,41.64830306,184,Danielle-Cente,M,100,A,"2600 W PRAIRIE AV, SOUTH BEND, 46614",L,0,StreetAddress,2600 W Prairie Ave. ,South Bend,,IN,2015/07/06 05:00:00+00,2600 W Prairie Ave. ,South Bend,IN,No,2015
+-86.28574264,41.68648108,185,Danielle-Cente,M,89.04,A,"2500 W PRAST BLVD, SOUTH BEND, 46628",L,0,StreetAddress,2500 W Prast St. ,South Bend,,IN,2015/02/25 05:00:00+00,2500 W Prast St. ,South Bend,IN,Yes,2015
+-86.29864484,41.68884112,186,Danielle-Cente,M,90.87,A,"3500 PUTNAM PL, SOUTH BEND, 46628",L,0,StreetAddress,3500 W Putnam Pl. ,South Bend,,IN,2016/10/17 05:00:00+00,3500 W Putnam Pl. ,South Bend,IN,No,2016
+-86.26750059,41.6962393,187,Danielle-Cente,M,79,A,"1201 W QUEEN ST, SOUTH BEND, 46616",R,0,StreetAddress,1200 W Queen St. ,South Bend,,IN,2015/08/29 05:00:00+00,1200 W Queen St. ,South Bend,IN,Yes,2015
+-86.28064031,41.68251725,188,Danielle-Cente,M,100,A,"2100 W ROGER ST, SOUTH BEND, 46628",L,0,StreetAddress,2100 W Roger St. ,South Bend,,IN,2016/02/28 05:00:00+00,2100 W Roger St. ,South Bend,IN,No,2016
+-86.28111293,41.6825148,189,Danielle-Cente,M,100,A,"2200 W ROGER ST, SOUTH BEND, 46628",L,0,StreetAddress,2200 W Roger St. ,South Bend,,IN,2017/07/29 05:00:00+00,2200 W Roger St. ,South Bend,IN,No,2017
+-86.28111293,41.6825148,190,Danielle-Cente,M,100,A,"2200 W ROGER ST, SOUTH BEND, 46628",L,0,StreetAddress,2200 W Roger St. ,South Bend,,IN,2017/07/29 05:00:00+00,2200 W Roger St. ,South Bend,IN,No,2017
+-86.25879709,41.65641447,191,Danielle-Cente,M,100,A,"1635 S SCOTT ST, SOUTH BEND, 46613",L,0,StreetAddress,1900 S Scott St. ,South Bend,,IN,2016/07/31 05:00:00+00,1900 S Scott St. ,South Bend,IN,No,2016
+-86.26491685,41.68785065,192,Danielle-Cente,M,89.04,A,"1000 N SHERMAN AV, SOUTH BEND, 46616",R,0,StreetAddress,1000 N Sherman St. ,South Bend,,IN,2015/11/11 05:00:00+00,1000 N Sherman St. ,South Bend,IN,No,2015
+-86.26496522,41.68939542,193,Danielle-Cente,T,86.3,A,"1101 N SHERMAN AV, SOUTH BEND, 46616",L,0,StreetAddress,800 N Sherman St. ,South Bend,,IN,2015/12/06 05:00:00+00,800 N Sherman St. ,South Bend,IN,No,2015
+-86.23697996,41.68984857,194,Danielle-Cente,M,100,A,"1000 E ST VINCENT ST, SOUTH BEND, 46617",R,0,StreetAddress,1000 E St. Vincent St.,South Bend,,IN,2016/10/31 05:00:00+00,1000 E St. Vincent St.,South Bend,IN,No,2016
+-86.28352116,41.68067897,195,Danielle-Cente,M,89.04,A,"2400 KENWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,2400 Kenwood St.  ,South Bend,,IN,2015/10/05 05:00:00+00,2400 Kenwood St.  ,South Bend,IN,No,2015
+-86.24782831,41.64979127,196,Danielle-Cente,M,100,A,"2400 S ST JOSEPH ST, SOUTH BEND, 46614",L,0,StreetAddress,2400 S St. Joseph St.,South Bend,,IN,2016/06/17 05:00:00+00,2400 S St. Joseph St.,South Bend,IN,No,2016
+-86.24146064,41.68188956,197,Danielle-Cente,M,89.04,A,"500 N ST LOUIS BLVD, SOUTH BEND, 46617",R,0,StreetAddress,500 N St. Louis St.,South Bend,,IN,2016/04/30 05:00:00+00,500 N St. Louis St.,South Bend,IN,No,2016
+-86.27181598,41.6805998,198,Danielle-Cente,M,100,A,"400 N STUDEBAKER ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Studebaker St. ,South Bend,,IN,2015/08/07 05:00:00+00,400 N Studebaker St. ,South Bend,IN,No,2015
+-86.27181598,41.6805998,199,Danielle-Cente,M,100,A,"400 N STUDEBAKER ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Studebaker St. ,South Bend,,IN,2016/08/14 05:00:00+00,400 N Studebaker St. ,South Bend,IN,No,2016
+-86.27181598,41.6805998,200,Danielle-Cente,M,100,A,"400 N STUDEBAKER ST, SOUTH BEND, 46628",R,0,StreetAddress,400 N Studebaker St. ,South Bend,,IN,2016/08/14 05:00:00+00,400 N Studebaker St. ,South Bend,IN,No,2016
+-86.2718628,41.6819986,201,Danielle-Cente,M,100,A,"500 N STUDEBAKER ST, SOUTH BEND, 46628",R,0,StreetAddress,500 N Studebaker St. ,South Bend,,IN,2015/08/09 05:00:00+00,500 N Studebaker St. ,South Bend,IN,No,2015
+-86.25740383,41.65642797,202,Danielle-Cente,M,100,A,"1700 S TAYLOR ST, SOUTH BEND, 46613",L,0,StreetAddress,1700 S Taylor St. ,South Bend,,IN,2017/04/09 05:00:00+00,1700 S Taylor St. ,South Bend,IN,No,2017
+-86.26338616,41.67430452,203,Danielle-Cente,M,100,A,"900 W THOMAS ST, SOUTH BEND, 46601",L,0,StreetAddress,900 W Thomas St. ,South Bend,,IN,2017/08/14 05:00:00+00,900 W Thomas St. ,South Bend,IN,No,2017
+-86.26368231,41.68601781,204,Danielle-Cente,M,98.72,A,"1000 W VAN BUREN ST, SOUTH BEND, 46616",L,0,StreetAddress,1000 W VanBuren St. ,South Bend,,IN,2016/01/03 05:00:00+00,1000 W VanBuren St. ,South Bend,IN,No,2016
+-86.26368231,41.68601781,205,Danielle-Cente,M,98.72,A,"1000 W VAN BUREN ST, SOUTH BEND, 46616",L,0,StreetAddress,1000 W VanBuren St. ,South Bend,,IN,2016/01/03 05:00:00+00,1000 W VanBuren St. ,South Bend,IN,No,2016
+-86.26734346,41.68597007,206,Danielle-Cente,M,98.72,A,"1200 W VAN BUREN ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 W VanBuren St. ,South Bend,,IN,2015/03/26 05:00:00+00,1200 W VanBuren St. ,South Bend,IN,No,2015
+-86.2723703,41.68662338,207,Danielle-Cente,M,98.72,A,"1500 W VAN BUREN ST, SOUTH BEND, 46628",L,0,StreetAddress,1500 W Vanburen St. ,South Bend,,IN,2016/09/08 05:00:00+00,1500 W Vanburen St. ,South Bend,IN,No,2016
+-86.21253121,41.67662494,208,Danielle-Cente,M,100,A,"105 N VARSITY DR, SOUTH BEND, 46615",L,0,StreetAddress,100 N Varsity Dr. ,South Bend,,IN,2017/11/21 05:00:00+00,100 N Varsity Dr. ,South Bend,IN,Yes,2017
+-86.2699438,41.68932556,209,Danielle-Cente,M,90.87,A,"1300 W VASSAR AV, SOUTH BEND, 46628",L,0,StreetAddress,1300 N Vassar Ave. ,South Bend,,IN,2016/08/28 05:00:00+00,1300 N Vassar Ave. ,South Bend,IN,No,2016
+-86.2699438,41.68932556,210,Danielle-Cente,M,96.35,A,"1300 W VASSAR AV, SOUTH BEND, 46628",L,0,StreetAddress,1300 W Vasser Ave. ,South Bend,,IN,2016/05/19 05:00:00+00,1300 W Vasser Ave. ,South Bend,IN,No,2016
+-86.2164685,41.66408374,211,Danielle-Cente,T,100,A,"2023 E VINE ST, SOUTH BEND, 46615",L,0,StreetAddress,3600 E Vine St. ,South Bend,,IN,2017/02/06 05:00:00+00,3600 E Vine St. ,South Bend,IN,No,2017
+-86.2361588,41.65982889,212,Danielle-Cente,M,100,A,"1500 S VIRGINIA ST, SOUTH BEND, 46613",L,0,StreetAddress,1500 S Virginia St. ,South Bend,,IN,2017/06/23 05:00:00+00,1500 S Virginia St. ,South Bend,IN,No,2017
+-86.27047938,41.68194982,213,Danielle-Cente,M,100,A,"500 N WALNUT ST, SOUTH BEND, 46616",R,0,StreetAddress,500 N Walnut St. ,South Bend,,IN,2016/03/31 05:00:00+00,500 N Walnut St. ,South Bend,IN,No,2016
+-86.31077305,41.67523827,214,Danielle-Cente,T,100,A,"111 N WALTON AV, SOUTH BEND, 46619",L,0,StreetAddress,100 N Walton Ave. ,South Bend,,IN,2017/07/04 05:00:00+00,100 N Walton Ave. ,South Bend,IN,No,2017
+-86.27998211,41.67027476,215,Danielle-Cente,M,79,A,"501 S WARREN ST, SOUTH BEND, 46619",L,0,StreetAddress,500 S Warren St. ,South Bend,,IN,2015/03/25 05:00:00+00,500 S Warren St. ,South Bend,IN,No,2015
+-86.26823613,41.67621435,216,Danielle-Cente,M,100,A,"1200 W WASHINGTON ST, SOUTH BEND, 46601",L,0,StreetAddress,1200 W Washington St. ,South Bend,,IN,2017/07/08 05:00:00+00,1200 W Washington St. ,South Bend,IN,No,2017
+-86.27154045,41.67616992,217,Danielle-Cente,M,100,A,"1400 W WASHINGTON ST, SOUTH BEND, 46601",L,0,StreetAddress,1400 W Washington St. ,South Bend,,IN,2017/03/29 05:00:00+00,1400 W Washington St. ,South Bend,IN,No,2017
+-86.29610166,41.67558538,218,Danielle-Cente,M,100,A,"3400 W WASHINGTON ST, SOUTH BEND, 46619",L,0,StreetAddress,3400 W Washington St. ,South Bend,,IN,2017/05/20 05:00:00+00,3400 W Washington St. ,South Bend,IN,Yes,2017
+-86.29610166,41.67558538,219,Danielle-Cente,M,100,A,"3400 W WASHINGTON ST, SOUTH BEND, 46619",L,0,StreetAddress,3400 W Washington St. ,South Bend,,IN,2017/06/05 05:00:00+00,3400 W Washington St. ,South Bend,IN,No,2017
+-86.29730638,41.67557139,220,Danielle-Cente,M,100,A,"3500 W WASHINGTON ST, SOUTH BEND, 46619",L,0,StreetAddress,3500 W Washington St. ,South Bend,,IN,2016/12/17 05:00:00+00,3500 W Washington St. ,South Bend,IN,No,2016
+-86.25910359,41.6763141,221,Danielle-Cente,M,90.87,A,"700 W WASHINGTON ST, SOUTH BEND, 46601",L,0,StreetAddress,700 E Washington St. ,South Bend,,IN,2016/03/29 05:00:00+00,700 E Washington St. ,South Bend,IN,No,2016
+-86.27394842,41.68539977,222,Danielle-Cente,M,100,A,"1600 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1600 Lincoln Way West ,South Bend,,IN,2016/08/18 05:00:00+00,1600 Lincoln Way West ,South Bend,IN,No,2016
+-86.27740419,41.68644001,223,Danielle-Cente,M,100,A,"1800 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1800 Lincoln Way West ,South Bend,,IN,2016/08/02 05:00:00+00,1800 Lincoln Way West ,South Bend,IN,No,2016
+-86.27740419,41.68644001,224,Danielle-Cente,M,100,A,"1800 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1800 Lincoln Way West ,South Bend,,IN,2016/08/02 05:00:00+00,1800 Lincoln Way West ,South Bend,IN,No,2016
+-86.25914701,41.68085187,225,Danielle-Cente,M,100,A,"700 LINCOLN WAY W, SOUTH BEND, 46616",L,0,StreetAddress,700 Lincoln Way West ,South Bend,,IN,2015/12/03 05:00:00+00,700 Lincoln Way West ,South Bend,IN,No,2015
+-86.26872934,41.66854045,226,Danielle-Cente,M,100,A,"700 S WEBSTER ST, SOUTH BEND, 46619",L,0,StreetAddress,700 S Webster St. ,South Bend,,IN,2016/10/08 05:00:00+00,700 S Webster St. ,South Bend,IN,No,2016
+-86.26872934,41.66854045,227,Danielle-Cente,M,100,A,"700 S WEBSTER ST, SOUTH BEND, 46619",L,0,StreetAddress,700 S Webster St. ,South Bend,,IN,2016/10/08 05:00:00+00,700 S Webster St. ,South Bend,IN,No,2016
+-86.29977769,41.67768449,228,Danielle-Cente,M,100,A,"200 N WELLINGTON ST, SOUTH BEND, 46619",R,0,StreetAddress,200 N Wellington St. ,South Bend,,IN,2017/02/19 05:00:00+00,200 N Wellington St. ,South Bend,IN,No,2017
+-86.30032777,41.6662061,229,Danielle-Cente,M,100,A,"800 S WELLINGTON ST, SOUTH BEND, 46619",L,0,StreetAddress,800 S Wellington St. ,South Bend,,IN,2016/06/10 05:00:00+00,800 S Wellington St. ,South Bend,IN,No,2016
+-86.26778696,41.68356079,230,Danielle-Cente,M,100,A,"1200 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1200 Lincoln Way West ,South Bend,,IN,2017/07/26 05:00:00+00,1200 Lincoln Way West ,South Bend,IN,No,2017
+-86.33500465,41.70398762,231,Danielle-Cente,T,100,A,"LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,3000 Lincoln Way West ,South Bend,,IN,2017/02/10 05:00:00+00,3000 Lincoln Way West ,South Bend,IN,No,2017
+-86.33500465,41.70398762,232,Danielle-Cente,T,100,A,"LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,3200 Lincoln Way West ,South Bend,,IN,2017/10/21 05:00:00+00,3200 Lincoln Way West ,South Bend,IN,Yes,2017
+-86.25914701,41.68085187,233,Danielle-Cente,M,100,A,"700 LINCOLN WAY W, SOUTH BEND, 46616",L,0,StreetAddress,700 Lincoln Way West ,South Bend,,IN,2017/08/19 05:00:00+00,700 Lincoln Way West ,South Bend,IN,No,2017
+-86.25914701,41.68085187,234,Danielle-Cente,M,100,A,"700 LINCOLN WAY W, SOUTH BEND, 46616",L,0,StreetAddress,700 Lincoln Way West ,South Bend,,IN,2016/11/27 05:00:00+00,700 Lincoln Way West ,South Bend,IN,No,2016
+-86.27244482,41.67209478,235,Danielle-Cente,T,100,A,"1500 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,1500 W Western Ave. ,South Bend,,IN,2017/02/05 05:00:00+00,1500 W Western Ave. ,South Bend,IN,No,2017
+-86.27420231,41.6721829,236,Danielle-Cente,M,100,A,"1600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,1600 W Western Ave. ,South Bend,,IN,2017/11/24 05:00:00+00,1600 W Western Ave. ,South Bend,IN,No,2017
+-86.27420231,41.6721829,237,Danielle-Cente,M,100,A,"1600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,1600 W Western Ave. ,South Bend,,IN,2015/04/05 05:00:00+00,1600 W Western Ave. ,South Bend,IN,No,2015
+-86.27420231,41.6721829,238,Danielle-Cente,M,100,A,"1600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,1600 W Western Ave. ,South Bend,,IN,2015/04/05 05:00:00+00,1600 W Western Ave. ,South Bend,IN,No,2015
+-86.27420231,41.6721829,239,Danielle-Cente,M,100,A,"1600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,1600 W Western Ave. ,South Bend,,IN,2015/09/20 05:00:00+00,1600 W Western Ave. ,South Bend,IN,Yes,2015
+-86.27420231,41.6721829,240,Danielle-Cente,M,100,A,"1600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,1600 W Western Ave. ,South Bend,,IN,2016/03/28 05:00:00+00,1600 W Western Ave. ,South Bend,IN,No,2016
+-86.28523506,41.6720443,241,Danielle-Cente,M,100,A,"2500 W WESTERN AV, SOUTH BEND, 46619",R,0,StreetAddress,2500 W Western Ave. ,South Bend,,IN,2016/02/27 05:00:00+00,2500 W Western Ave. ,South Bend,IN,No,2016
+-86.29603881,41.67195914,242,Danielle-Cente,M,100,A,"3400 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,3400 W Western Ave. ,South Bend,,IN,2015/07/26 05:00:00+00,3400 W Western Ave. ,South Bend,IN,No,2015
+-86.29724921,41.67195251,243,Danielle-Cente,M,100,A,"3500 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,3500 W Western Ave. ,South Bend,,IN,2017/03/20 05:00:00+00,3500 W Western Ave. ,South Bend,IN,No,2017
+-86.29724921,41.67195251,244,Danielle-Cente,M,100,A,"3500 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,3500 W Western Ave. ,South Bend,,IN,2015/11/30 05:00:00+00,3500 W Western Ave. ,South Bend,IN,No,2015
+-86.29724921,41.67195251,245,Danielle-Cente,M,100,A,"3500 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,3500 W Western Ave. ,South Bend,,IN,2016/05/17 05:00:00+00,3500 W Western Ave. ,South Bend,IN,No,2016
+-86.3193109,41.67199209,246,Danielle-Cente,T,100,A,"W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,3900 W Western Ave. ,South Bend,,IN,2015/12/04 05:00:00+00,3900 W Western Ave. ,South Bend,IN,No,2015
+-86.31025802,41.67187597,247,Danielle-Cente,M,79,A,"4501 W WESTERN AV, SOUTH BEND, 46619",R,0,StreetAddress,4500 W Western Ave. ,South Bend,,IN,2015/01/29 05:00:00+00,4500 W Western Ave. ,South Bend,IN,No,2015
+-86.2740067,41.68924373,248,Danielle-Cente,M,100,A,"1100 N WILBER ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Wilber St. ,South Bend,,IN,2017/06/12 05:00:00+00,1100 N Wilber St. ,South Bend,IN,No,2017
+-86.2740067,41.68924373,249,Danielle-Cente,M,100,A,"1100 N WILBER ST, SOUTH BEND, 46628",R,0,StreetAddress,1100 N Wilber St. ,South Bend,,IN,2017/06/27 05:00:00+00,1100 N Wilber St. ,South Bend,IN,No,2017
+-86.2740419,41.69083138,250,Danielle-Cente,M,79,A,"1201 N WILBER ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 N Wilber St. ,South Bend,,IN,2017/09/29 05:00:00+00,1200 N Wilber St. ,South Bend,IN,No,2017
+-86.2740419,41.69083138,251,Danielle-Cente,M,79,A,"1201 N WILBER ST, SOUTH BEND, 46628",L,0,StreetAddress,1200 N Wilber St. ,South Bend,,IN,2016/05/18 05:00:00+00,1200 N Wilber St. ,South Bend,IN,No,2016
+-86.2740952,41.69290795,252,Danielle-Cente,M,79,A,"1301 N WILBER ST, SOUTH BEND, 46628",L,0,StreetAddress,1300 N Wilber St. ,South Bend,,IN,2016/05/24 05:00:00+00,1300 N Wilber St. ,South Bend,IN,No,2016
+-86.25603924,41.65780893,253,Danielle-Cente,M,85.8,A,"1600 S WILLIAM ST, SOUTH BEND, 46613",L,0,StreetAddress,1600 S Williams St. ,South Bend,,IN,2015/05/03 05:00:00+00,1600 S Williams St. ,South Bend,IN,No,2015
+-86.25603924,41.65780893,254,Danielle-Cente,M,85.8,A,"1600 S WILLIAM ST, SOUTH BEND, 46613",L,0,StreetAddress,1600 S Williams St. ,South Bend,,IN,2015/05/03 05:00:00+00,1600 S Williams St. ,South Bend,IN,No,2015
+-86.25603924,41.65780893,255,Danielle-Cente,M,85.8,A,"1600 S WILLIAM ST, SOUTH BEND, 46613",L,0,StreetAddress,1600 S Williams St. ,South Bend,,IN,2015/05/03 05:00:00+00,1600 S Williams St. ,South Bend,IN,No,2015
+-86.25603924,41.65780893,256,Danielle-Cente,M,85.8,A,"1600 S WILLIAM ST, SOUTH BEND, 46613",L,0,StreetAddress,1600 S Williams St. ,South Bend,,IN,2015/05/03 05:00:00+00,1600 S Williams St. ,South Bend,IN,No,2015
+-86.32061423,41.67752078,257,Danielle-Cente,M,100,A,"5200 W WINDFALL CT, SOUTH BEND, 46619",L,0,StreetAddress,5200 W Windfall Ct. ,South Bend,,IN,2017/04/25 05:00:00+00,5200 W Windfall Ct. ,South Bend,IN,Yes,2017
+-86.26442077,41.69093046,258,Danielle-Cente,T,86.3,A,"1035 W YUKON AV, SOUTH BEND, 46616",L,0,StreetAddress,1000 W Yukon St. ,South Bend,,IN,2017/02/18 05:00:00+00,1000 W Yukon St. ,South Bend,IN,Yes,2017
+-86.26442077,41.69093046,259,Danielle-Cente,T,86.3,A,"1035 W YUKON AV, SOUTH BEND, 46616",L,0,StreetAddress,1000 W Yukon St. ,South Bend,,IN,2017/02/18 05:00:00+00,1000 W Yukon St. ,South Bend,IN,No,2017
+-86.26442077,41.69093046,260,Danielle-Cente,T,86.3,A,"1035 W YUKON AV, SOUTH BEND, 46616",L,0,StreetAddress,1000 W Yukon St. ,South Bend,,IN,2017/02/18 05:00:00+00,1000 W Yukon St. ,South Bend,IN,No,2017
+-86.26442077,41.69093046,261,Danielle-Cente,T,86.3,A,"1035 W YUKON AV, SOUTH BEND, 46616",L,0,StreetAddress,1000 W Yukon St. ,South Bend,,IN,2017/02/18 05:00:00+00,1000 W Yukon St. ,South Bend,IN,No,2017
+-86.26442077,41.69093046,262,Danielle-Cente,T,86.3,A,"1035 W YUKON AV, SOUTH BEND, 46616",L,0,StreetAddress,1000 W Yukon St. ,South Bend,,IN,2015/08/14 05:00:00+00,1000 W Yukon St. ,South Bend,IN,Yes,2015
+-86.30051815,41.68574388,263,Danielle-Cente,M,100,A,"ILLINOIS ST, SOUTH BEND, 46628",L,0,StreetAddress,Illinois St.,South Bend,,IN,2017/11/17 05:00:00+00,Illinois St.,South Bend,IN,No,2017
+,,264,,U,0,A,,,,,Unknown,South Bend,,IN,2016/03/05 05:00:00+00,Unknown,South Bend,IN,No,2016
+,,265,,U,0,A,,,,,Unknown,South Bend,,IN,2016/08/03 05:00:00+00,Unknown,South Bend,IN,No,2016
+,,266,,U,0,A,,,,,Unknown,South Bend,,IN,2016/09/25 05:00:00+00,Unknown,South Bend,IN,No,2016
+,,267,,U,0,A,,,,,Unknown,South Bend,,IN,2017/04/19 05:00:00+00,Unknown,South Bend,IN,No,2017
+,,268,,U,0,A,,,,,Unknown,South Bend,,IN,2017/05/10 05:00:00+00,Unknown,South Bend,IN,No,2017
+-86.22665631,41.66278089,269,World,M,98.82,A,"Clover St & Hildreth St, South Bend, Indiana, 46615",,,StreetInt,,South Bend,,,2018/01/18 05:00:00+00,Clover/Hildreth  ,South Bend,IN,Yes,2018
+-86.27901179,41.69940656,270,World,M,97.46,A,"1800 Johnson St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/01/11 05:00:00+00,1800 N Johnson ,South Bend,IN,Yes,2018
+-86.24591066,41.68831954,271,World,M,97.46,A,"400 Howard St, South Bend, Indiana, 46617",R,,StreetAddress,,South Bend,,,2018/01/22 05:00:00+00,400 E Howard ,South Bend,IN,No,2018
+-86.25550411,41.68168371,272,World,M,98.71,A,"400 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/01/23 05:00:00+00,400 W Marion ,South Bend,IN,No,2018
+-86.30723056,41.66270471,273,World,M,97.46,A,"4300 Silver Ln, South Bend, Indiana, 46619",R,,StreetAddress,,South Bend,,,2018/02/17 05:00:00+00,4300 W Silver ,South Bend,IN,Yes,2018
+-86.2392419,41.65593736,274,World,M,98.71,A,"800 E Dayton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/03/11 05:00:00+00,800 E Dayton ,South Bend,IN,No,2018
+-86.2392419,41.65593736,275,World,M,98.71,A,"800 E Dayton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/03/11 05:00:00+00,800 E Dayton ,South Bend,IN,No,2018
+-86.2392419,41.65593736,276,World,M,98.71,A,"800 E Dayton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/03/11 05:00:00+00,800 E Dayton ,South Bend,IN,No,2018
+-86.28247131,41.68927159,277,World,M,98.71,A,"1100 N Elmer St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/02/19 05:00:00+00,1100 N Elmer ,South Bend,IN,No,2018
+-86.2392419,41.65593736,278,World,M,98.71,A,"800 E Dayton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/03/11 05:00:00+00,800 E Dayton ,South Bend,IN,No,2018
+-86.28261103,41.69749782,279,World,M,98.71,A,"1700 N Elmer St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/03/22 05:00:00+00,1700 N Elmer ,South Bend,IN,No,2018
+-86.27049405,41.67934412,280,World,M,97.46,A,"1300 Linden Ave, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/03/17 05:00:00+00,1300 W Linden ,South Bend,IN,No,2018
+-86.2392419,41.65593736,281,World,M,98.71,A,"800 E Dayton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/03/11 05:00:00+00,800 E Dayton ,South Bend,IN,No,2018
+-86.28499222,41.70148549,282,World,M,97.46,A,"1900 Fremont St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/03/14 05:00:00+00,1900 N Fremont ,South Bend,IN,No,2018
+-86.28380183,41.6938219,283,World,M,98.45,A,"N Olive St & Elwood Ave, South Bend, Indiana, 46628",,,StreetInt,,South Bend,,,2018/03/23 05:00:00+00,Olive/Elwood  ,South Bend,IN,No,2018
+-86.26973367,41.69471621,284,World,M,97.46,A,"1300 King St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/04/17 05:00:00+00,1300 W King ,South Bend,IN,No,2018
+-86.2392419,41.65593736,285,World,M,98.71,A,"800 E Dayton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/03/11 05:00:00+00,800 E Dayton ,South Bend,IN,No,2018
+-86.23487115,41.65367734,286,World,M,97.46,A,"2000 Miami St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/04/02 05:00:00+00,2000 S Miami ,South Bend,IN,No,2018
+-86.23527832,41.6792329,287,World,M,98.08,A,"N Eddy St & E Lasalle Ave, South Bend, Indiana, 46617",,,StreetInt,,South Bend,,,2018/05/29 05:00:00+00, Eddy/Lasalle  ,South Bend,IN,No,2018
+-86.25375445,41.6817295,288,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/03/22 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.24600352,41.65252596,289,World,M,98.7,A,"2100 Carroll St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/06/07 05:00:00+00,2100 Carroll  ,South Bend,IN,No,2018
+-86.25375445,41.6817295,290,World,M,94.84,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/03/22 05:00:00+00,300 W Maion ,South Bend,IN,No,2018
+-86.27742115,41.67819143,291,World,M,98.71,A,"200 N Brookfield St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/04/19 05:00:00+00,200 N Brookfield ,South Bend,IN,No,2018
+-86.23545946,41.69126026,292,World,M,98.71,A,"1200 N Eddy St, South Bend, Indiana, 46617",R,,StreetAddress,,South Bend,,,2018/03/25 05:00:00+00,1200 N Eddy ,South Bend,IN,No,2018
+-86.26810475,41.68775929,293,World,M,97.46,A,"1200 California St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/03/30 05:00:00+00,1200 W California ,South Bend,IN,No,2018
+-86.29775919,41.68903651,294,World,M,98.7,A,"3500 Curtiss Dr, South Bend, Indiana, 46628",L,,StreetAddress,,South Bend,,,2018/04/13 05:00:00+00,3500 Curtiss  ,South Bend,IN,No,2018
+-86.26522442,41.67893053,295,World,M,97.46,A,"300 Laporte Ave, South Bend, Indiana, 46616",R,,StreetAddress,,South Bend,,,2018/06/10 05:00:00+00,300 N LaPorte ,South Bend,IN,No,2018
+-86.23004818,41.68190253,296,World,M,97.46,A,"1300 Cedar St, South Bend, Indiana, 46617",R,,StreetAddress,,South Bend,,,2018/05/06 05:00:00+00,1300 E Cedar ,South Bend,IN,No,2018
+-86.28943508,41.68548261,297,World,M,97.46,A,"2800 Frederickson St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/04/14 05:00:00+00,2800 W Frederickson ,South Bend,IN,No,2018
+-86.23487115,41.65367734,298,World,M,97.46,A,"2000 Miami St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/05/02 05:00:00+00,2000 S Miami ,South Bend,IN,No,2018
+-86.26522442,41.67893053,299,World,M,97.46,A,"300 Laporte Ave, South Bend, Indiana, 46616",R,,StreetAddress,,South Bend,,,2018/06/10 05:00:00+00,300 N LaPorte ,South Bend,IN,No,2018
+-86.30074282,41.69548307,300,World,M,95.81,A,"1600 N Illinois St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/04/20 05:00:00+00,1600 N. Illinios ,South Bend,IN,No,2018
+-86.23834921,41.67927301,301,World,M,98.71,A,"300 N Notre Dame Ave, South Bend, Indiana, 46617",R,,StreetAddress,,South Bend,,,2018/05/22 05:00:00+00,300 N Notre Dame,South Bend,IN,No,2018
+-86.24093813,41.65807064,302,World,M,98.71,A,"700 E Indiana Ave, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/05/09 05:00:00+00,700 E Indiana ,South Bend,IN,No,2018
+-86.25393682,41.62880304,303,World,M,98.71,A,"300 W Ireland Rd, South Bend, Indiana, 46614",L,,StreetAddress,,South Bend,,,2018/05/08 05:00:00+00,300 W Ireland ,South Bend,IN,No,2018
+-86.27727788,41.65485295,304,World,M,98.71,A,"1800 S Brookfield St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/06/10 05:00:00+00,1800 S Brookfield ,South Bend,IN,No,2018
+-86.27182222,41.68225394,305,World,M,97.46,A,"600 Studebaker St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/05/28 05:00:00+00,600 N Studebaker ,South Bend,IN,Yes,2018
+-86.26885601,41.66925511,306,World,M,97.46,A,"1300 Grace St, South Bend, Indiana, 46619",R,,StreetAddress,,South Bend,,,2018/06/17 05:00:00+00,1300 W Grace ,South Bend,IN,No,2018
+-86.23679086,41.66855395,307,World,M,98.7,A,"900 Northside Blvd, South Bend, Indiana, 46617",L,,StreetAddress,,South Bend,,,2018/06/23 05:00:00+00,900 Northside  ,South Bend,IN,Yes,2018
+-86.28941747,41.68461,308,World,M,97.46,A,"2800 Westmoor St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/05/26 05:00:00+00,2800 W Westmoor ,South Bend,IN,No,2018
+-86.23086951,41.68593219,309,World,M,97.46,A,"1300 Campeau St, South Bend, Indiana, 46617",L,,StreetAddress,,South Bend,,,2018/09/01 05:00:00+00,1300 E Campeau ,South Bend,IN,No,2018
+-86.28247131,41.68927159,310,World,M,98.71,A,"1100 N Elmer St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/06/07 05:00:00+00,1100 N Elmer ,South Bend,IN,No,2018
+-86.28252833,41.6892139,311,World,M,93.59,A,"N Elmer St & Vassar Ave, South Bend, Indiana, 46628",,,StreetInt,,South Bend,,,2018/07/01 05:00:00+00,Elmer/Vasser  ,South Bend,IN,No,2018
+-86.2799193,41.68154122,312,World,M,97.46,A,"2100 Bertrand St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/09/09 05:00:00+00,2100 W Bertrand ,South Bend,IN,Yes,2018
+-86.25375445,41.6817295,313,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/04 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.23488691,41.65462458,314,World,M,97.46,A,"1900 Miami St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/07/02 05:00:00+00,1900 S Miami ,South Bend,IN,No,2018
+-86.27589535,41.68206338,315,World,M,97.46,A,"1700 Fassnacht St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/07/04 05:00:00+00,1700 W Fassnacht ,South Bend,IN,No,2018
+-86.27601885,41.68594108,316,World,M,100,A,"1700 Lincolnway W, South Bend, Indiana, 46628",L,,StreetAddress,,South Bend,,,2018/11/06 05:00:00+00,1700 Lincolnway West  ,South Bend,IN,No,2018
+-86.25375445,41.6817295,317,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/04 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.27136219,41.69482596,318,World,M,97.46,A,"1500 Anderson Ave, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/10/07 05:00:00+00,1500 N Anderson ,South Bend,IN,Yes,2018
+-86.28343847,41.67814726,319,World,M,98.71,A,"200 N Olive St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/11/15 05:00:00+00,200 N Olive ,South Bend,IN,No,2018
+-86.257899,41.67894856,320,World,M,98.71,A,"600 W Lasalle Ave, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/07/11 05:00:00+00,600 W LaSalle ,South Bend,IN,No,2018
+-86.23800941,41.65700938,321,World,T,98.21,A,"900 E Dubail St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/10/10 05:00:00+00,900 Dubail  ,South Bend,IN,No,2018
+-86.24858418,41.66852496,322,World,M,98.71,A,"1300 S St Joseph St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/09/14 05:00:00+00,1300 S St Joseph,South Bend,IN,No,2018
+-86.28374246,41.6861054,323,World,M,97.46,A,"2400 Prast Blvd, South Bend, Indiana, 46628",L,,StreetAddress,,South Bend,,,2018/07/26 05:00:00+00,2400 W Prast ,South Bend,IN,No,2018
+-86.24977939,41.654706,324,World,M,97.46,A,"100 Milton St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/09/18 05:00:00+00,100 E Milton ,South Bend,IN,Yes,2018
+-86.2536068,41.67912709,325,World,M,98.71,A,"300 N Lafayette Blvd, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/08/11 05:00:00+00,300 N Lafayette ,South Bend,IN,No,2018
+-86.30339836,41.67182942,326,World,M,98.71,A,"4000 W Western Ave, South Bend, Indiana, 46619",R,,StreetAddress,,South Bend,,,2018/09/24 05:00:00+00,4000 W Western ,South Bend,IN,No,2018
+-86.28010673,41.67204579,327,World,M,98.71,A,"2100 W Western Ave, South Bend, Indiana, 46619",R,,StreetAddress,,South Bend,,,2018/08/12 05:00:00+00,2100 W Western ,South Bend,IN,No,2018
+-86.2690765,41.68151535,328,World,M,96.46,A,"500 Laporte Ave, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/11/16 05:00:00+00,500 N La Porte,South Bend,IN,No,2018
+-86.23686871,41.68854301,329,World,M,98.71,A,"1000 N Frances St, South Bend, Indiana, 46617",R,,StreetAddress,,South Bend,,,2018/09/30 05:00:00+00,1000 N Frances ,South Bend,IN,No,2018
+-86.30098284,41.67394538,330,World,M,98.71,A,"3800 W Jefferson Blvd, South Bend, Indiana, 46619",R,,StreetAddress,,South Bend,,,2018/11/29 05:00:00+00,3800 W Jefferson ,South Bend,IN,No,2018
+-86.25375445,41.6817295,331,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/04 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.30411934,41.66290689,332,World,M,98.71,A,"4000 W Sample St, South Bend, Indiana, 46619",R,,PointAddress,,South Bend,,,2018/11/29 05:00:00+00,4000 W Sample ,South Bend,IN,No,2018
+-86.22359296,41.69439168,333,World,M,97.46,A,"1700 South Bend Ave, South Bend, Indiana, 46637",R,,StreetAddress,,South Bend,,,2018/08/18 05:00:00+00,1700 E South Bend,South Bend,IN,No,2018
+-86.28506539,41.68150444,334,World,M,97.46,A,"2500 Bertrand St, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/08/24 05:00:00+00,2500 W Bertrand ,South Bend,IN,No,2018
+-86.25876793,41.65636209,335,World,M,98.71,A,"1700 S Scott St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/12/02 05:00:00+00,1700 S Scott ,South Bend,IN,No,2018
+-86.25375445,41.6817295,336,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/04 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.25876793,41.65636209,337,World,M,98.71,A,"1700 S Scott St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/12/02 05:00:00+00,1700 S Scott ,South Bend,IN,No,2018
+-86.25375445,41.6817295,338,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/04 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.26599378,41.67207189,339,World,M,98.71,A,"1100 W Western Ave, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/13 05:00:00+00,1100 W Western ,South Bend,IN,No,2018
+-86.2823036,41.68065484,340,World,M,98.7,A,"2300 Kenwood Ave, South Bend, Indiana, 46628",R,,StreetAddress,,South Bend,,,2018/10/22 05:00:00+00,2300 Kenwood  ,South Bend,IN,No,2018
+-86.25375445,41.6817295,341,World,M,98.71,A,"300 W Marion St, South Bend, Indiana, 46601",R,,StreetAddress,,South Bend,,,2018/10/04 05:00:00+00,300 W Marion ,South Bend,IN,No,2018
+-86.26451849,41.67749055,342,World,M,98.71,A,"1000 W Colfax Ave, South Bend, Indiana, 46616",R,,StreetAddress,,South Bend,,,2018/10/28 05:00:00+00,1000 W Colfax ,South Bend,IN,No,2018
+-86.27493995,41.65487647,343,World,M,97.46,A,"1800 Pulaski St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/10/31 05:00:00+00,1800 S Pulaski ,South Bend,IN,No,2018
+-86.23930144,41.63871768,344,World,M,97.46,A,"3600 High St, South Bend, Indiana, 46614",R,,StreetAddress,,South Bend,,,2018/12/16 05:00:00+00,3600 S High ,South Bend,IN,No,2018
+-86.27493995,41.65487647,345,World,M,97.46,A,"1800 Pulaski St, South Bend, Indiana, 46613",R,,StreetAddress,,South Bend,,,2018/10/31 05:00:00+00,1800 S Pulaski ,South Bend,IN,No,2018
+-86.28371441,41.6489246,346,World,M,97.46,A,"2500 Prairie Ave, South Bend, Indiana, 46614",R,,StreetAddress,,South Bend,,,2018/11/03 05:00:00+00,2500 W Prairie ,South Bend,IN,Yes,2018
+-86.24271072,41.65914643,348,,M,100,PP,"Haney Ave, South Bend, IN 46613",,,,,South Bend,,,2019/01/01 05:00:00+00,"Haney Ave, South Bend, IN 46613",,,No,2019
+-86.24968457,41.64782171,349,,M,100,PP,"2600 S Michigan St, South Bend, IN 46614",,,,,South Bend,,,2019/01/02 05:00:00+00,"2600 S Michigan St, South Bend, IN 46614",,,No,2019
+-86.31331638,41.65738513,350,Centerline_SJC,T,96.04,A,"4800 BELLEVILLE CIR, SOUTH BEND, 46619",L,0,StreetAddress,,South Bend,,,2019/01/06 05:00:00+00,"4800 Belleville Cir, South Bend, IN 46619",,,No,2019
+-86.23276416,41.65941703,351,Centerline_SJC,M,96.04,A,"1200 E HANEY AV, SOUTH BEND, 46613",R,0,StreetAddress,,South Bend,,,2019/01/12 05:00:00+00,"1200 E Haney Ave, South Bend, IN 46613",,,No,2019
+-86.26099195,41.65635611,352,Centerline_SJC,M,96.04,A,"1700 S CHAPIN ST, SOUTH BEND, 46613",L,0,StreetAddress,,South Bend,,,2019/01/13 05:00:00+00,"1700 S Chapin St, South Bend, IN 46613",,,No,2019
+-86.27745159,41.68125698,353,Centerline_SJC,M,96.04,A,"500 N BROOKFIELD ST, SOUTH BEND, 46628",R,0,StreetAddress,,South Bend,,,2019/01/13 05:00:00+00,"500 N Brookfield St, South Bend, IN 46628",,,Yes,2019
+-86.27745159,41.68125698,354,Centerline_SJC,M,96.04,A,"500 N BROOKFIELD ST, SOUTH BEND, 46628",R,0,StreetAddress,,South Bend,,,2019/01/13 05:00:00+00,"500 N Brookfield St, South Bend, IN 46628",,,No,2019
+-86.26115563,41.68332726,355,Centerline_SJC,M,96.04,A,"600 N CUSHING ST, SOUTH BEND, 46616",R,0,StreetAddress,,South Bend,,,2019/01/14 05:00:00+00,"600 N Cushing St, South Bend, IN 46616",,,No,2019
+-86.26873552,41.66579439,356,Centerline_SJC,M,96.04,A,"1300 W FISHER ST, SOUTH BEND, 46619",L,0,StreetAddress,,South Bend,,,2019/02/22 05:00:00+00,"1300 W Fisher St, South Bend, IN 46619",,,No,2019
+-86.2704372,41.67612979,357,Centerline_SJC,M,96.04,A,"1300 W WASHINGTON ST, SOUTH BEND, 46601",L,0,StreetAddress,,South Bend,,,2019/02/25 05:00:00+00,"1300 W Washington St, South Bend, IN 46601",,,Yes,2019
+-86.27043674,41.67613048,358,,M,100,PP,"100 N Walnut St, South Bend, IN 46628",,,,,South Bend,,,2019/03/11 05:00:00+00,"100 N Walnut St, South Bend, IN 46628",,,No,2019
+-86.24995959,41.65682709,359,Centerline_SJC,M,75.04,M,"1601 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,,South Bend,,,2019/03/23 05:00:00+00,"1600 S Michigan St, South Bend, IN 46613",,,No,2019
+-86.28109892,41.70831373,360,Centerline_SJC,M,96.04,A,"2100 W LATHROP ST, SOUTH BEND, 46628",L,0,StreetAddress,,South Bend,,,2019/03/29 05:00:00+00,"2100 W Lathrop St, South Bend, IN 46628",,,No,2019
+-86.23827715,41.67654517,361,Centerline_SJC,M,96.04,A,"100 N NOTRE DAME AV, SOUTH BEND, 46617",R,0,StreetAddress,,,,,2019/03/31 05:00:00+00,"100 N Notre Dame Ave, South Bend, IN 46617",,,No,2019
+-86.27975459,41.67935948,362,,M,100,PP,"1700 N Kaley St, South Bend, IN 46628",,,,,,,,2019/03/31 05:00:00+00,"300 N O'brien St, South Bend, IN 46628",,,No,2019
+-86.28737224,41.6974418,363,Centerline_SJC,M,96.04,A,"1700 N KALEY ST, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/03/31 05:00:00+00,"1700 N Kaley St, South Bend, IN 46628",,,No,2019
+-86.27975714,41.67936071,364,,M,100,PP,"300 N Eddy St, South Bend, IN 46617",,,,,,,,2019/04/08 05:00:00+00,"300 N O'brien St, South Bend, IN 46628",,,Yes,2019
+-86.23527772,41.679232,365,,M,100,PP,"100 W Lasalle Ave, South Bend, IN 46601",,,,,,,,2019/04/11 05:00:00+00,"300 N Eddy St, South Bend, IN 46617",,,No,2019
+-86.25043141,41.6790453,366,Centerline_SJC,M,96.04,A,"100 W LASALLE AV, SOUTH BEND, 46601",L,0,StreetAddress,,,,,2019/04/20 05:00:00+00,"100 W Lasalle Ave, South Bend, IN 46601",,,No,2019
+-86.27009599,41.67016939,367,Centerline_SJC,M,96.04,A,"1300 W HURON ST, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/04/28 05:00:00+00,"1300 W Huron St, South Bend, IN 46619",,,No,2019
+-86.25372254,41.68171438,368,Centerline_SJC,M,96.04,A,"300 W MARION ST, SOUTH BEND, 46601",L,0,StreetAddress,,,,,2019/04/28 05:00:00+00,"300 W Marion St, South Bend, IN 46601",,,Yes,2019
+-86.24322826,41.66832637,369,Centerline_SJC,M,96.04,A,"600 E BRONSON ST, SOUTH BEND, 46601",R,0,StreetAddress,,,,,2019/04/29 05:00:00+00,"600 E Bronson St, South Bend, IN 46601",,,No,2019
+-86.24995959,41.65682709,370,Centerline_SJC,M,75.04,M,"1601 S MICHIGAN ST, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/05/12 05:00:00+00,"1600 S Michigan St, South Bend, IN 46613",,,No,2019
+-86.28262725,41.69376878,371,Centerline_SJC,M,96.04,A,"2300 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/05/16 05:00:00+00,"2300 W Elwood Ave, South Bend, IN 46628",,,No,2019
+-86.25797086,41.68431286,372,Centerline_SJC,M,75.04,M,"701 N PORTAGE AV, SOUTH BEND, 46616",L,0,StreetAddress,,,,,2019/05/17 05:00:00+00,"700 N Portage Ave, South Bend, IN 46616",,,No,2019
+-86.28227769,41.67205533,373,Centerline_SJC,M,96.04,A,"2300 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/05/18 05:00:00+00,"2300 W Western Ave, South Bend, IN 46619",,,No,2019
+-86.25871738,41.6563392,374,Centerline_SJC,M,75.04,M,"1701 S SCOTT ST, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/05/30 05:00:00+00,"1700 S Scott St, South Bend, IN 46613",,,No,2019
+-86.25871738,41.6563392,375,Centerline_SJC,M,75.04,M,"1701 S SCOTT ST, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/05/30 05:00:00+00,"1700 S Scott St, South Bend, IN 46613",,,No,2019
+-86.27637356,41.68927586,376,Centerline_SJC,M,96.04,A,"1100 N COLLEGE ST, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/05/31 05:00:00+00,"1100 N College St, South Bend, IN 46628",,,No,2019
+-86.28262725,41.69376878,377,Centerline_SJC,M,96.04,A,"2300 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/06/04 05:00:00+00,"2300 W Elwood Ave, South Bend, IN 46628",,,No,2019
+-86.24960487,41.64710726,378,Centerline_SJC,M,96.04,A,"100 E IRVINGTON ST, SOUTH BEND, 46614",L,0,StreetAddress,,,,,2019/06/06 05:00:00+00,"100 E Irvington St, South Bend, IN 46614",,,No,2019
+-86.24960487,41.64710726,379,Centerline_SJC,M,96.04,A,"100 E IRVINGTON ST, SOUTH BEND, 46614",L,0,StreetAddress,,,,,2019/06/06 05:00:00+00,"100 E Irvington St, South Bend, IN 46614",,,No,2019
+-86.2858967,41.67345854,380,Centerline_SJC,M,96.04,A,"200 S MEADE ST, SOUTH BEND, 46619",R,0,StreetAddress,,,,,2019/06/06 05:00:00+00,"200 S Meade St, South Bend, IN 46619",,,No,2019
+-86.2858967,41.67345854,381,Centerline_SJC,M,96.04,A,"200 S MEADE ST, SOUTH BEND, 46619",R,0,StreetAddress,,,,,2019/06/06 05:00:00+00,"200 S Meade St, South Bend, IN 46619",,,No,2019
+-86.28801117,41.71848106,382,Address_CoSB,M,93.15,A,"2700 BUCKSKIN LN 34, SOUTH BEND, IN, 46628",,15988,PointAddress,,,,,2019/06/07 05:00:00+00,"2700 W Buckskin Ln, South Bend, IN 46628",,,Yes,2019
+-86.27657815,41.6820928,383,Centerline_SJC,M,85.08,A,"1800 W FASSNACHT ST, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/06/08 05:00:00+00,"1800 W Fassnacht Ave, South Bend, IN 46628",,,No,2019
+-86.2858967,41.67345854,384,Centerline_SJC,M,96.04,A,"200 S MEADE ST, SOUTH BEND, 46619",R,0,StreetAddress,,,,,2019/06/09 05:00:00+00,"200 S Meade St, South Bend, IN 46619",,,No,2019
+-86.2858967,41.67345854,385,Centerline_SJC,M,96.04,A,"200 S MEADE ST, SOUTH BEND, 46619",R,0,StreetAddress,,,,,2019/06/09 05:00:00+00,"200 S Meade St, South Bend, IN 46619",,,No,2019
+-86.2858967,41.67345854,386,Centerline_SJC,M,96.04,A,"200 S MEADE ST, SOUTH BEND, 46619",R,0,StreetAddress,,,,,2019/06/09 05:00:00+00,"200 S Meade St, South Bend, IN 46619",,,No,2019
+-86.27671126,41.65028925,387,Centerline_SJC,T,96.04,A,"1800 W EWING AV, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/06/19 05:00:00+00,"1800 W Ewing Ave, South Bend, IN 46613",,,No,2019
+-86.31585081,41.67640228,388,,M,100,PP,"x=-86.315851, y=41.676402",,,,,,,,2019/06/19 05:00:00+00,"100 N Woodhill Ln, South Bend, IN 46619",,,Yes,2019
+-86.23270799,41.66643268,389,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,Yes,2019
+-86.23270799,41.66643268,390,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,391,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,392,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,393,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,394,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,395,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,396,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,397,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,398,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.23270799,41.66643268,399,Centerline_SJC,T,96.04,A,"1200 E MISHAWAKA AV, SOUTH BEND, 46615",R,0,StreetAddress,,,,,2019/06/23 05:00:00+00,"1200 E Mishawaka Ave, South Bend, IN 46615",,,No,2019
+-86.31391737,41.6616727,400,Centerline_SJC,M,96.04,A,"4800 W MEADOW LN, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/06/29 05:00:00+00,"4800 W Meadow Ln, South Bend, IN 46619",,,No,2019
+-86.31391737,41.6616727,401,Centerline_SJC,M,96.04,A,"4800 W MEADOW LN, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/06/29 05:00:00+00,"4800 W Meadow Ln, South Bend, IN 46619",,,No,2019
+-86.29774286,41.68904643,402,,M,100,PP,"3400 Putnam Pl , South Bend, IN 46628",,,,,,,,2019/06/29 05:00:00+00,"3400 Putnam Pl , South Bend, IN 46628",,,No,2019
+-86.23200616,41.65852976,403,Centerline_SJC,M,96.04,A,"1200 E INDIANA AV, SOUTH BEND, 46613",R,0,StreetAddress,,,,,2019/07/06 05:00:00+00,"1200 E Indiana Ave, South Bend, IN 46613",,,No,2019
+-86.28113532,41.68075171,404,Centerline_SJC,M,75.04,M,"2201 KENWOOD AV, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/07/11 05:00:00+00,"2200 Kenwood Ave, South Bend, IN 46628",,,No,2019
+-86.28790177,41.67712921,405,,M,100,PP,"200 N Kaley St, South Bend, IN 46619",,,,,,,,2019/07/13 05:00:00+00,"200 N Kaley St, South Bend, IN 46619",,,No,2019
+-86.28900154,41.67295329,406,Centerline_SJC,M,96.04,A,"300 S BENDIX DR, SOUTH BEND, 46619",R,0,StreetAddress,,,,,2019/07/14 05:00:00+00,"300 S Bendix Dr, South Bend, IN 46619",,,No,2019
+-86.24589728,41.67921044,407,Centerline_SJC,M,94.62,A,"400 E LA SALLE AV, SOUTH BEND, 46617",L,0,StreetAddress,,,,,2019/07/21 05:00:00+00,"400 E Lasalle Ave, South Bend, IN 46617",,,No,2019
+-86.24589728,41.67921044,408,Centerline_SJC,M,94.62,A,"400 E LA SALLE AV, SOUTH BEND, 46617",L,0,StreetAddress,,,,,2019/07/21 05:00:00+00,"400 E Lasalle Ave, South Bend, IN 46617",,,No,2019
+-86.24589728,41.67921044,409,Centerline_SJC,M,94.62,A,"400 E LA SALLE AV, SOUTH BEND, 46617",L,0,StreetAddress,,,,,2019/07/21 05:00:00+00,"400 E Lasalle Ave, South Bend, IN 46617",,,Yes,2019
+-86.31004226,41.67182383,410,Centerline_SJC,T,96.04,A,"4400 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/07/27 05:00:00+00,"4400 W Western Ave, South Bend, IN 46619",,,No,2019
+-86.23308361,41.68354085,411,,M,100,PP,"1200 E Cedar St, South Bend, IN 46617",,,,,,,,2019/08/03 05:00:00+00,"N Arthur St, South Bend, IN 46617",,,No,2019
+-86.2330997,41.68192731,412,,M,100,PP,"2500 Kenwood Ave, South Bend, IN 46628",,,,,,,,2019/08/03 05:00:00+00,"1200 E Cedar St, South Bend, IN 46617",,,No,2019
+-86.28501007,41.68061134,413,Centerline_SJC,M,96.04,A,"2500 KENWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/08/03 05:00:00+00,"2500 Kenwood Ave, South Bend, IN 46628",,,No,2019
+-86.31208143,41.67182976,414,Centerline_SJC,M,96.04,A,"4600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/08/11 05:00:00+00,"4600 W Western Ave, South Bend, IN 46619",,,No,2019
+-86.31208143,41.67182976,415,Centerline_SJC,M,96.04,A,"4600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/08/11 05:00:00+00,"4600 W Western Ave, South Bend, IN 46619",,,No,2019
+-86.31208143,41.67182976,416,Centerline_SJC,M,96.04,A,"4600 W WESTERN AV, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/08/11 05:00:00+00,"4600 W Western Ave, South Bend, IN 46619",,,No,2019
+-86.30182757,41.69029018,417,,M,100,PP,"1000 W Lincoln Way , South Bend, IN 46616",,,,,,,,2019/08/11 05:00:00+00,"3800 N Curtiss Dr, South Bend, IN 46628",,,No,2019
+-86.26368073,41.68237934,418,,M,100,PP,"600 W Lasalle Ave, South Bend, IN 46601",,,,,,,,2019/08/12 05:00:00+00,"1000 W Lincoln Way , South Bend, IN 46616",,,No,2019
+-86.25785939,41.67897323,419,Centerline_SJC,M,96.04,A,"600 W LASALLE AV, SOUTH BEND, 46601",L,0,StreetAddress,,,,,2019/08/12 05:00:00+00,"600 W Lasalle Ave, South Bend, IN 46601",,,No,2019
+-86.26829973,41.67615851,420,Centerline_SJC,M,96.04,A,"1200 W WASHINGTON ST, SOUTH BEND, 46601",L,0,StreetAddress,,,,,2019/08/14 05:00:00+00,"1200 W Washington St, South Bend, IN 46601",,,No,2019
+-86.21857272,41.62943279,421,Centerline_SJC,M,75.04,M,"1901 E IRELAND RD, SOUTH BEND, 46614",R,0,StreetAddress,,,,,2019/08/16 05:00:00+00,"1900 E Ireland Rd, South Bend, IN 46614",,,No,2019
+-86.23912389,41.63968891,422,Centerline_SJC,M,96.04,A,"3400 S HIGH ST, SOUTH BEND, 46614",L,0,StreetAddress,,,,,2019/08/17 05:00:00+00,"3400 S High St, South Bend, IN 46614",,,No,2019
+-86.26852189,41.65037103,423,,M,100,PP,"1300 W Ewing Ave, South Bend, IN 46613",,,,,,,,2019/08/21 05:00:00+00,"1300 W Ewing Ave, South Bend, IN 46613",,,No,2019
+-86.26779406,41.68349766,424,Centerline_SJC,M,77.78,M,"1200 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/08/23 05:00:00+00,"1200 W Lincoln Way, South Bend, IN 46628",,,No,2019
+-86.28121006,41.68926952,425,Centerline_SJC,M,96.04,A,"1100 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/08/26 05:00:00+00,"1100 N Huey St, South Bend, IN 46628",,,No,2019
+-86.28135525,41.69751606,426,Centerline_SJC,M,96.04,A,"1700 N HUEY ST, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/09/08 05:00:00+00,"1700 N Huey St, South Bend, IN 46628",,,No,2019
+-86.28501007,41.68061134,427,Centerline_SJC,M,96.04,A,"2500 KENWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/09/08 05:00:00+00,"2500 Kenwood Ave, South Bend, IN 46628",,,No,2019
+-86.27739983,41.67941887,428,Centerline_SJC,M,96.04,A,"300 N BROOKFIELD ST, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/09/14 05:00:00+00,"300 N Brookfield St, South Bend, IN 46628",,,No,2019
+-86.27771668,41.68646912,429,Centerline_SJC,M,77.78,M,"1900 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/09/15 05:00:00+00,"1900 W Lincoln Way, South Bend, IN 46628",,,No,2019
+-86.29674537,41.69219743,430,,M,100,PP,"1200 E Donald St, South Bend, IN 46613",,,,,,,,2019/09/18 05:00:00+00,"3400 W Lincoln Way, South Bend, IN 46628",,,Yes,2019
+-86.26721202,41.65217396,431,Centerline_SJC,M,86.91,A,"1200 W DONALD ST, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/09/19 05:00:00+00,"1200 E Donald St, South Bend, IN 46613",,,No,2019
+-86.24596355,41.64804673,432,Centerline_SJC,M,96.04,A,"300 E FAIRVIEW AV, SOUTH BEND, 46614",L,0,StreetAddress,,,,,2019/09/20 05:00:00+00,"300 E Fairview Ave, South Bend, IN 46614",,,No,2019
+-86.23316261,41.68188489,433,,M,100,PP,"1200 E Cedar St, South Bend, IN 46617",,,,,,,,2019/09/21 05:00:00+00,"1200 E Cedar St, South Bend, IN 46617",,,Yes,2019
+-86.23316688,41.68192861,434,,M,100,PP,"1200 E Cedar St, South Bend, IN 46617",,,,,,,,2019/09/21 05:00:00+00,"1200 E Cedar St, South Bend, IN 46617",,,No,2019
+-86.23316727,41.68192861,435,,M,100,PP,"1200 E Cedar St, South Bend, IN 46617",,,,,,,,2019/09/21 05:00:00+00,"1200 E Cedar St, South Bend, IN 46617",,,No,2019
+-86.23316755,41.68192899,436,,M,100,PP,"1200 E Cedar St, South Bend, IN 46617",,,,,,,,2019/09/21 05:00:00+00,"1200 E Cedar St, South Bend, IN 46617",,,No,2019
+-86.26967661,41.69471117,437,Centerline_SJC,M,96.04,A,"1300 W KING ST, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/10/01 05:00:00+00,"1300 W King St, South Bend, IN 46628",,,No,2019
+-86.25360762,41.679126,438,,M,100,PP,"300 N Lafayette Blvd, South Bend, IN 46637",,,,,,,,2019/10/19 05:00:00+00,"300 N Lafayette Blvd, South Bend, IN 46637",,,Yes,2019
+-86.24452029,41.66015105,439,,M,100,PP,"500 E Broadway St, South Bend, IN 46601",,,,,,,,2019/10/23 05:00:00+00,"500 E Broadway St, South Bend, IN 46601",,,No,2019
+-86.28134164,41.6907099,440,Centerline_SJC,M,96.04,A,"2200 W HUMBOLDT ST, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/10/27 05:00:00+00,"2200 W Humboldt St, South Bend, IN 46628",,,No,2019
+-86.28134164,41.6907099,441,Centerline_SJC,M,96.04,A,"2200 W HUMBOLDT ST, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/10/27 05:00:00+00,"2200 W Humboldt St, South Bend, IN 46628",,,No,2019
+-86.28134164,41.6907099,442,Centerline_SJC,M,96.04,A,"2200 W HUMBOLDT ST, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/10/27 05:00:00+00,"2200 W Humboldt St, South Bend, IN 46628",,,No,2019
+-86.28581265,41.67019303,443,,M,100,PP,"2600 W Huron St, South Bend, IN 46619",,,,,,,,2019/11/10 05:00:00+00,"2600 W Huron St, South Bend, IN 46619",,,No,2019
+-86.27754481,41.67935403,444,,M,100,PP,"1900 W Linden Ave, South Bend, IN 46619",,,,,,,,2019/11/17 05:00:00+00,"1900 W Linden Ave, South Bend, IN 46619",,,No,2019
+-86.28351199,41.66745867,445,Centerline_SJC,M,96.04,A,"2400 W POLAND ST, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/11/23 05:00:00+00,"2400 W Poland St, South Bend, IN 46619",,,No,2019
+-86.23027812,41.65909633,446,Centerline_SJC,M,86.91,A,"1500 S LEER ST, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/12/01 05:00:00+00,"1500 Leer St , South Bend, IN 46613",,,No,2019
+-86.27737567,41.65390804,447,Centerline_SJC,M,86.91,A,"1900 W CALVERT ST, SOUTH BEND, 46613",L,0,StreetAddress,,,,,2019/12/03 05:00:00+00,"1900 E Calvert St, South Bend, IN 46613",,,No,2019
+-86.23509869,41.62945619,448,Centerline_SJC,M,96.04,A,"1000 E IRELAND RD, SOUTH BEND, 46614",L,0,StreetAddress,,,,,2019/12/08 05:00:00+00,"1000 E Ireland Rd, South Bend, IN 46614",,,No,2019
+-86.29959882,41.67187211,449,Centerline_SJC,M,96.04,A,"400 S WELLINGTON ST, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/12/09 05:00:00+00,"400 S Wellington St, South Bend, IN 46619",,,No,2019
+-86.29959882,41.67187211,450,Centerline_SJC,M,96.04,A,"400 S WELLINGTON ST, SOUTH BEND, 46619",L,0,StreetAddress,,,,,2019/12/09 05:00:00+00,"400 S Wellington St, South Bend, IN 46619",,,No,2019
+-86.27754575,41.67935403,451,,M,100,PP,"1900 Linden Ave, South Bend, IN 46628",,,,,,,,2019/12/22 05:00:00+00,"1900 Linden Ave, South Bend, IN 46628",,,No,2019
+-86.27754528,41.67935441,452,,M,100,PP,"1900 Linden Ave, South Bend, IN 46628",,,,,,,,2019/12/22 05:00:00+00,"1900 Linden Ave, South Bend, IN 46628",,,No,2019
+-86.27317021,41.68183927,453,Centerline_SJC,M,96.04,A,"500 N BIRDSELL ST, SOUTH BEND, 46628",R,0,StreetAddress,,,,,2019/12/24 05:00:00+00,"500 N Birdsell St, South Bend, IN 46628",,,No,2019
+-86.28262725,41.69376878,454,Centerline_SJC,M,96.04,A,"2300 W ELWOOD AV, SOUTH BEND, 46628",L,0,StreetAddress,,,,,2019/12/26 05:00:00+00,"2300 W Elwood Ave, South Bend, IN 46628",,,No,2019
+-86.25164185,41.65845571,455,Centerline_SJC,M,96.04,A,"1500 S MAIN ST, SOUTH BEND, 46613",R,0,StreetAddress,,,,,2019/12/28 05:00:00+00,"1500 S Main St, South Bend, IN 46613",,,No,2019
+-86.26457564,41.68089362,456,Centerline_SJC,M,96.04,A,"500 N SHERMAN AV, SOUTH BEND, 46616",R,0,StreetAddress,,,,,2019/12/30 05:00:00+00,"500 N Sherman Ave, South Bend, IN 46616",,,No,2019
+-86.24968457,41.65297344,457,Centerline_CoS,M,100,A,2000 S Michigan St,R,0,StreetAddress,2000 S MICHIGAN ST,South Bend,46613,IN,2020/01/01 05:00:00+00,2000 S MICHIGAN ST,South Bend,IN,Yes,2020
+-86.24968457,41.65297344,458,Centerline_CoS,M,100,A,2000 S Michigan St,R,0,StreetAddress,2000 S MICHIGAN ST,South Bend,46613,IN,2020/01/01 05:00:00+00,2000 S MICHIGAN ST,South Bend,IN,No,2020
+-86.23023066,41.65484011,459,Centerline_CoS,M,100,A,1900 S Leer St,L,0,StreetAddress,1900 S LEER ST,South Bend,46613,IN,2020/01/02 05:00:00+00,1900 S LEER ST,South Bend,IN,No,2020
+-86.23089611,41.68711964,460,Centerline_CoS,M,100,A,1300 E Corby Blvd,R,0,StreetAddress,1300 E CORBY BLVD,South Bend,46617,IN,2020/01/04 05:00:00+00,1300 E CORBY BLVD,South Bend,IN,Yes,2020
+-86.27871266,41.68391947,461,Centerline_CoS,M,100,A,700 N Johnson St,R,0,StreetAddress,700 N JOHNSON ST,South Bend,46628,IN,2020/01/05 05:00:00+00,700 N JOHNSON ST,South Bend,IN,No,2020
+-86.30680164,41.66632984,462,Centerline_CoS,M,100,A,800 S Gladstone St,L,0,StreetAddress,800 S GLADSTONE ST,South Bend,46619,IN,2020/01/09 05:00:00+00,800 S GLADSTONE ST,South Bend,IN,No,2020
+-86.25114962,41.64343735,463,Centerline_CoS,M,100,A,3000 S Main St,L,0,StreetAddress,3000 S MAIN ST,South Bend,46614,IN,2020/01/11 05:00:00+00,3000 S MAIN ST,South Bend,IN,No,2020
+-86.28793635,41.68731705,464,Centerline_CoS,M,100,A,2700 W Hartzer St,L,0,StreetAddress,2700 W HARTZER ST,South Bend,46628,IN,2020/01/13 05:00:00+00,2700 W HARTZER ST,South Bend,IN,Yes,2020
+-86.21343645,41.68745476,465,Centerline_CoS,M,100,A,2400 E Corby Blvd,R,0,StreetAddress,2400 E CORBY BLVD,South Bend,46615,IN,2020/01/21 05:00:00+00,2400 E CORBY BLVD,South Bend,IN,No,2020
+-86.28891768,41.68890421,466,Centerline_CoS,M,100,A,1100 N Eclipse Pl,R,0,StreetAddress,1100 N ECLIPSE PL,South Bend,46628,IN,2020/01/23 05:00:00+00,1100 N ECLIPSE PL,South Bend,IN,No,2020
+-86.21827111,41.65480139,467,Centerline_CoS,M,100,A,1900 E Calvert St,R,0,StreetAddress,1900 E CALVERT ST,South Bend,46613,IN,2020/01/25 05:00:00+00,1900 E CALVERT ST,South Bend,IN,No,2020
+-86.28989488,41.66914028,468,Centerline_CoS,M,100,A,600 S Liberty St,L,0,StreetAddress,600 S LIBERTY ST,South Bend,46619,IN,2020/01/26 05:00:00+00,600 S LIBERTY ST,South Bend,IN,Yes,2020
+-86.27876942,41.68759768,469,Centerline_CoS,M,100,A,1000 N Johnson St,R,0,StreetAddress,1000 N JOHNSON ST,South Bend,46628,IN,2020/02/02 05:00:00+00,1000 N JOHNSON ST,South Bend,IN,No,2020
+-86.24781323,41.65247913,470,Centerline_CoS,M,100,A,200 E Donald St,R,0,StreetAddress,200 E DONALD ST,South Bend,46613,IN,2020/02/04 05:00:00+00,200 E DONALD ST,South Bend,IN,No,2020
+-86.2696359,41.65484492,471,Centerline_CoS,M,90.87,A,1800 W Prairie Ave,L,0,StreetAddress,1800  PRAIRIE AVE,South Bend,46613,IN,2020/02/08 05:00:00+00,1800  PRAIRIE AVE,South Bend,IN,No,2020
+-86.20515089,41.69028819,472,,M,100,PP,"x=-86.205151, y=41.690288",,,,1100 N PATTY LN,South Bend,46615,IN,2020/02/12 05:00:00+00,1100 N PATTY LN,South Bend,IN,Yes,2020
+-86.27857704,41.65575166,473,Centerline_CoS,M,100,A,"W Dubail Ave & S Grant St,",,,StreetInt,W DUBAIL AVE & S GRANT ST,South Bend,46613,IN,2020/02/12 05:00:00+00,W DUBAIL AVE & S GRANT ST,South Bend,IN,Yes,2020
+-86.27641377,41.69198734,474,Centerline_CoS,M,100,A,1300 N College St,R,0,StreetAddress,1300 N COLLEGE ST,South Bend,46628,IN,2020/02/14 05:00:00+00,1300 N COLLEGE ST,South Bend,IN,No,2020
+-86.27641377,41.69198734,475,Centerline_CoS,M,100,A,1300 N College St,R,0,StreetAddress,1300 N COLLEGE ST,South Bend,46628,IN,2020/02/14 05:00:00+00,1300 N COLLEGE ST,South Bend,IN,No,2020
+-86.28110391,41.68065022,476,Centerline_CoS,M,90.87,A,2200 W Kenwood Ave,L,0,StreetAddress,2200 KENWOOD AVE,South Bend,46628,IN,2020/02/21 05:00:00+00,2200 KENWOOD AVE,South Bend,IN,No,2020
+-86.26358723,41.65740611,477,Centerline_CoS,M,100,A,1600 S Kemble Ave,L,0,StreetAddress,1600 S KEMBLE AVE,South Bend,46613,IN,2020/02/23 05:00:00+00,1600 S KEMBLE AVE,South Bend,IN,No,2020
+-86.29343838,41.66466552,478,Centerline_CoS,M,100,A,3200 W Sample St,L,0,StreetAddress,3200 W SAMPLE ST,South Bend,46619,IN,2020/02/29 05:00:00+00,3200 W SAMPLE ST,South Bend,IN,No,2020
+-86.28255103,41.69571509,479,Centerline_CoS,M,100,A,1600 N Elmer St,R,0,StreetAddress,1600 N ELMER ST,South Bend,46628,IN,2020/03/03 05:00:00+00,1600 N ELMER ST,South Bend,IN,Yes,2020
+-86.27871266,41.68391947,480,Centerline_CoS,M,100,A,700 N Johnson St,R,0,StreetAddress,700 N JOHNSON ST,South Bend,46628,IN,2020/03/07 05:00:00+00,700 N JOHNSON ST,South Bend,IN,No,2020
+-86.25356191,41.67911139,481,Centerline_CoS,M,100,A,300 N Lafayette Blvd,R,0,StreetAddress,300 N LAFAYETTE BL,South Bend,46637,IN,2020/03/14 05:00:00+00,300 N LAFAYETTE BL,South Bend,IN,Yes,2020
+-86.2835762,41.68661471,482,Centerline_CoS,M,100,A,900 N Olive St,R,0,StreetAddress,900 N OLIVE ST,South Bend,46628,IN,2020/03/14 05:00:00+00,900 N OLIVE ST,South Bend,IN,No,2020
+-86.25150494,41.65890968,483,Centerline_CoS,M,100,A,1500 S Main St,L,0,StreetAddress,1500 S MAIN ST,South Bend,46613,IN,2020/03/15 05:00:00+00,1500 S MAIN ST,South Bend,IN,No,2020
+-86.29360039,41.67198354,484,Centerline_CoS,M,100,A,"S Kentucky St & W Western Ave,",,,StreetInt,S KENTUCKY ST & W WESTERN AVE,South Bend,46619,IN,2020/03/16 05:00:00+00,S KENTUCKY ST & W WESTERN AVE,South Bend,IN,Yes,2020
+-86.26239163,41.67633751,485,Centerline_CoS,M,98.58,A,100 N LaPorte Ave,R,0,StreetAddress,100 N LA PORTE AVE,South Bend,46616,IN,2020/03/16 05:00:00+00,100 N LA PORTE AVE,South Bend,IN,No,2020
+-86.24968457,41.65297344,486,Centerline_CoS,M,100,A,2000 S Michigan St,R,0,StreetAddress,2000 S MICHIGAN ST,South Bend,46613,IN,2020/03/17 05:00:00+00,2000 S MICHIGAN ST,South Bend,IN,No,2020
+-86.26744279,41.66668454,487,Centerline_CoS,M,100,A,1200 W Dunham St,L,0,StreetAddress,1200 W DUNHAM ST,South Bend,46619,IN,2020/03/18 05:00:00+00,1200 W DUNHAM ST,South Bend,IN,No,2020
+-86.23912308,41.64080681,488,Centerline_CoS,M,100,A,3300 S High St,L,0,StreetAddress,3300 S HIGH ST,South Bend,46614,IN,2020/03/22 05:00:00+00,3300 S HIGH ST,South Bend,IN,No,2020
+-86.277816,41.69381097,489,Centerline_CoS,M,100,A,1900 W Elwood Ave,L,0,StreetAddress,1900 W ELWOOD AVE,South Bend,46628,IN,2020/03/29 05:00:00+00,1900 W ELWOOD AVE,South Bend,IN,No,2020
+-86.277816,41.69381097,490,Centerline_CoS,M,100,A,1900 W Elwood Ave,L,0,StreetAddress,1900 W ELWOOD AVE,South Bend,46628,IN,2020/03/29 05:00:00+00,1900 W ELWOOD AVE,South Bend,IN,No,2020
+-86.27885301,41.69198196,491,Centerline_CoS,M,100,A,1300 N Johnson St,R,0,StreetAddress,1300 N JOHNSON ST,South Bend,46628,IN,2020/04/03 05:00:00+00,1300 N JOHNSON ST,South Bend,IN,No,2020
+-86.28344836,41.6806939,492,Centerline_CoS,M,100,A,400 N Olive St,R,0,StreetAddress,400 N OLIVE ST,South Bend,46628,IN,2020/04/11 05:00:00+00,400 N OLIVE ST,South Bend,IN,No,2020
+-86.23517096,41.67926012,493,Centerline_CoS,M,100,A,300 N Eddy St,R,0,StreetAddress,300 N EDDY ST,South Bend,46617,IN,2020/04/24 05:00:00+00,300 N EDDY ST,South Bend,IN,Yes,2020
+-86.26583887,41.69619804,494,Centerline_CoS,M,90.87,A,1100 W Queen St,L,0,StreetAddress,1100 QUEEN ST,South Bend,46616,IN,2020/04/26 05:00:00+00,1100 QUEEN ST,South Bend,IN,No,2020
+-86.28319503,41.6702264,495,Centerline_CoS,M,100,A,500 S Olive St,L,0,StreetAddress,500 S OLIVE ST,South Bend,46619,IN,2020/04/26 05:00:00+00,500 S OLIVE ST,South Bend,IN,No,2020
+-86.28319503,41.6702264,496,Centerline_CoS,M,100,A,500 S Olive St,L,0,StreetAddress,500 S OLIVE ST,South Bend,46619,IN,2020/04/26 05:00:00+00,500 S OLIVE ST,South Bend,IN,No,2020
+-86.26126348,41.67903835,497,,M,100,PP,"x=-86.261263, y=41.679038",,0,StreetAddress,800 W LASALLE AVE,South Bend,46601,IN,2020/05/04 05:00:00+00,800 W LASALLE AVE,South Bend,IN,No,2020
+-86.28123273,41.6908011,498,Centerline_CoS,M,100,A,1200 N Huey St,R,0,StreetAddress,1200 N HUEY ST,South Bend,46628,IN,2020/05/09 05:00:00+00,1200 N HUEY ST,South Bend,IN,No,2020
+-86.24966106,41.64968471,499,Centerline_CoS,M,100,A,100 E Altgeld St,R,0,StreetAddress,100 E ALTGELD ST,South Bend,46614,IN,2020/05/10 05:00:00+00,100 E ALTGELD ST,South Bend,IN,No,2020
+-86.23297852,41.68005225,500,Centerline_CoS,M,90.87,A,1200 E McKinley Ave,R,0,StreetAddress,1200 MCKINLEY AVE,South Bend,46617,IN,2020/05/13 05:00:00+00,1200 MCKINLEY AVE,South Bend,IN,Yes,2020
+-86.23297852,41.68005225,501,Centerline_CoS,M,90.87,A,1200 E McKinley Ave,R,0,StreetAddress,1200 MCKINLEY AVE,South Bend,46617,IN,2020/05/13 05:00:00+00,1200 MCKINLEY AVE,South Bend,IN,No,2020
+-86.27319601,41.67935228,502,Centerline_CoS,M,100,A,1500 W Linden Ave,L,0,StreetAddress,1500 W LINDEN AVE,South Bend,46628,IN,2020/05/16 05:00:00+00,1500 W LINDEN AVE,South Bend,IN,No,2020
+-86.22421808,41.65391419,503,Centerline_CoS,M,98.17,A,1600 E Bowman St,R,0,StreetAddress,1600 E BOWMAM ST,South Bend,46613,IN,2020/05/23 05:00:00+00,1600 E BOWMAM ST,South Bend,IN,No,2020
+-86.27133688,41.69479455,504,Centerline_CoS,M,100,A,1500 N Anderson Ave,R,0,StreetAddress,1500 N ANDERSON AVE,South Bend,46616,IN,2020/05/25 05:00:00+00,1500 N ANDERSON AVE,South Bend,IN,No,2020
+-86.23001337,41.68058044,505,Centerline_CoS,M,100,A,400 N Sunnyside Ave,R,0,StreetAddress,400 N SUNNYSIDE AVE,South Bend,46617,IN,2020/05/27 05:00:00+00,400 N SUNNYSIDE AVE,South Bend,IN,No,2020
+-86.23001337,41.68058044,506,Centerline_CoS,M,100,A,400 N Sunnyside Ave,R,0,StreetAddress,400 N SUNNYSIDE AVE,South Bend,46617,IN,2020/05/27 05:00:00+00,400 N SUNNYSIDE AVE,South Bend,IN,No,2020
+-86.28474686,41.68918731,507,Centerline_CoS,M,100,A,1100 N Fremont St,R,0,StreetAddress,1100 N FREMONT ST,South Bend,46628,IN,2020/05/29 05:00:00+00,1100 N FREMONT ST,South Bend,IN,No,2020
+-86.23484735,41.6546417,508,Centerline_CoS,M,100,A,1900 S Miami St,L,0,StreetAddress,1900 S MIAMI ST,South Bend,46613,IN,2020/06/02 05:00:00+00,1900 S MIAMI ST,South Bend,IN,No,2020
+-86.28161456,41.70456611,509,Centerline_CoS,M,100,A,2200 W Bergan St,L,0,StreetAddress,2200 W BERGAN ST,South Bend,46628,IN,2020/06/04 05:00:00+00,2200 W BERGAN ST,South Bend,IN,No,2020
+-86.28161456,41.70456611,510,Centerline_CoS,M,100,A,2200 W Bergan St,L,0,StreetAddress,2200 W BERGAN ST,South Bend,46628,IN,2020/06/04 05:00:00+00,2200 W BERGAN ST,South Bend,IN,No,2020
+-86.25444145,41.65155302,511,Centerline_CoS,M,90.87,A,2200 S Franklin St,L,0,StreetAddress,2200 FRANKLIN ST,South Bend,46613,IN,2020/06/05 05:00:00+00,2200 FRANKLIN ST,South Bend,IN,No,2020
+-86.26354992,41.65633775,512,Centerline_CoS,M,100,A,1700 S Kemble Ave,L,0,StreetAddress,1700 S KEMBLE AVE,South Bend,46613,IN,2020/06/05 05:00:00+00,1700 S KEMBLE AVE,South Bend,IN,No,2020
+-86.2714385,41.67491242,513,Centerline_CoS,M,100,A,200 S Chestnut St,L,0,StreetAddress,200 S CHESTNUT ST,South Bend,46601,IN,2020/06/05 05:00:00+00,200 S CHESTNUT ST,South Bend,IN,No,2020
+-86.28344836,41.6806939,514,Centerline_CoS,M,100,A,400 N Olive St,R,0,StreetAddress,400 N OLIVE ST,South Bend,46628,IN,2020/06/06 05:00:00+00,400 N OLIVE ST,South Bend,IN,No,2020
+-86.28344836,41.6806939,515,Centerline_CoS,M,100,A,400 N Olive St,R,0,StreetAddress,400 N OLIVE ST,South Bend,46628,IN,2020/06/06 05:00:00+00,400 N OLIVE ST,South Bend,IN,No,2020
+-86.23779437,41.65091437,516,Centerline_CoS,M,100,A,900 E Ewing Ave,R,0,StreetAddress,900 E EWING AVE,South Bend,46613,IN,2020/06/09 05:00:00+00,900 E EWING AVE,South Bend,IN,No,2020
+-86.2992509,41.68980157,517,Centerline_CoS,M,90.87,A,3600 W Curtiss Dr,L,0,StreetAddress,3600 CURTISS DR,South Bend,46628,IN,2020/06/13 05:00:00+00,3600 CURTISS DR,South Bend,IN,Yes,2020
+-86.28114613,41.68757354,518,Centerline_CoS,M,100,A,1000 N Huey St,R,0,StreetAddress,1000 N HUEY ST,South Bend,46628,IN,2020/06/14 05:00:00+00,1000 N HUEY ST,South Bend,IN,No,2020
+-86.23496309,41.65853201,519,Centerline_CoS,M,100,A,1100 E Indiana Ave,R,0,StreetAddress,1100 E INDIANA AVE,South Bend,46613,IN,2020/06/15 05:00:00+00,1100 E INDIANA AVE,South Bend,IN,No,2020
+-86.3021466,41.67184984,520,Centerline_CoS,M,100,A,3900 W Western Ave,L,0,StreetAddress,3900 W WESTERN AVE,South Bend,46619,IN,2020/06/15 05:00:00+00,3900 W WESTERN AVE,South Bend,IN,No,2020
+-86.28341609,41.67932675,521,Centerline_CoS,M,100,A,300 N Olive St,R,0,StreetAddress,300 N OLIVE ST,South Bend,46628,IN,2020/06/21 05:00:00+00,300 N OLIVE ST,South Bend,IN,No,2020
+,,522,-1,U,0,A,,,,,UNKNOWN,South Bend,,IN,2020/06/21 05:00:00+00,UNKNOWN,South Bend,IN,No,2020
+-86.27779894,41.69386606,523,Centerline_CoS,M,94.86,A,"N Brookfield St & W Elwood Ave,",,,StreetInt,BROOKFIELD ST & ELWOOD AVE,South Bend,46628,IN,2020/06/24 05:00:00+00,BROOKFIELD ST & ELWOOD AVE,South Bend,IN,No,2020
+-86.19775125,41.66572336,524,Centerline_CoS,M,100,A,900 S 36th St,L,0,StreetAddress,900 S 36TH ST,South Bend,46615,IN,2020/06/29 05:00:00+00,900 S 36TH ST,South Bend,IN,No,2020
+-86.23198323,41.65857116,525,Centerline_CoS,M,100,A,1600 S Marine St,L,0,StreetAddress,1600 S MARINE ST,South Bend,46613,IN,2020/07/03 05:00:00+00,1600 S MARINE ST,South Bend,IN,Yes,2020
+-86.24968259,41.64973903,526,Centerline_CoS,M,94.86,A,"E Altgeld St & S Michigan St,",,,StreetInt,ALTGELD ST & MICHIGAN ST,South Bend,46614,IN,2020/07/09 05:00:00+00,ALTGELD ST & MICHIGAN ST,South Bend,IN,No,2020
+-86.23922584,41.63800048,527,Centerline_CoS,M,100,A,3600 S High St,L,0,StreetAddress,3600 S HIGH ST,South Bend,46614,IN,2020/07/12 05:00:00+00,3600 S HIGH ST,South Bend,IN,No,2020
+-86.23800844,41.68706582,528,Centerline_CoS,M,100,A,900 E Corby Blvd,R,0,StreetAddress,900 E CORBY BLVD,South Bend,46617,IN,2020/07/13 05:00:00+00,900 E CORBY BLVD,South Bend,IN,No,2020
+-86.23812743,41.68987855,529,Centerline_CoS,M,100,A,1100 N Notre Dame Ave,R,0,StreetAddress,1100 N NOTRE DAME AVE,South Bend,46617,IN,2020/07/13 05:00:00+00,1100 N NOTRE DAME AVE,South Bend,IN,No,2020
+-86.20893403,41.66045554,530,Centerline_CoS,M,100,A,"E Northside Blvd & S 27th St,",,,StreetInt,E NORTHSIDE BLVD & S 27TH ST,South Bend,46615,IN,2020/07/14 05:00:00+00,E NORTHSIDE BLVD & S 27TH ST,South Bend,IN,No,2020
+-86.27964221,41.67815344,531,Centerline_CoS,M,98.4,A,200 N O'Brien St,R,0,StreetAddress,200 N OBRIEN ST,South Bend,46628,IN,2020/07/22 05:00:00+00,200 N OBRIEN ST,South Bend,IN,No,2020
+-86.27413644,41.6938496,532,Centerline_CoS,M,90.87,A,1600 W Elwood Ave,L,0,StreetAddress,1600 ELWOOD AVE,South Bend,46628,IN,2020/07/23 05:00:00+00,1600 ELWOOD AVE,South Bend,IN,No,2020
+-86.2098258,41.63155815,533,Centerline_CoS,M,100,A,4400 Irish Hills Dr,R,0,StreetAddress,4400 IRISH HILLS DR,South Bend,46614,IN,2020/07/25 05:00:00+00,4400 IRISH HILLS DR,South Bend,IN,Yes,2020
+-86.2098258,41.63155815,534,Centerline_CoS,M,100,A,4400 Irish Hills Dr,R,0,StreetAddress,4400 IRISH HILLS DR,South Bend,46614,IN,2020/07/25 05:00:00+00,4400 IRISH HILLS DR,South Bend,IN,No,2020
+-86.29724921,41.67195251,535,Centerline_CoS,M,100,A,"S Falcon St & W Western Ave,",,,StreetInt,S FALCON ST & W WESTERN AVE,South Bend,46619,IN,2020/07/26 05:00:00+00,S FALCON ST & W WESTERN AVE,South Bend,IN,No,2020
+-86.29724921,41.67195251,536,Centerline_CoS,M,100,A,"S Falcon St & W Western Ave,",,,StreetInt,S FALCON ST & W WESTERN AVE,South Bend,46619,IN,2020/07/26 05:00:00+00,S FALCON ST & W WESTERN AVE,South Bend,IN,No,2020
+-86.29724921,41.67195251,537,Centerline_CoS,M,100,A,"S Falcon St & W Western Ave,",,,StreetInt,S FALCON ST & W WESTERN AVE,South Bend,46619,IN,2020/07/26 05:00:00+00,S FALCON ST & W WESTERN AVE,South Bend,IN,No,2020
+-86.26829972,41.67615851,538,Centerline_CoS,M,100,A,1200 W Washington St,L,0,StreetAddress,1200 W WASHINGTON ST,South Bend,46601,IN,2020/07/26 05:00:00+00,1200 W WASHINGTON ST,South Bend,IN,No,2020
+-86.28162267,41.67684003,539,Centerline_CoS,M,90.87,A,100 N Sadie St,R,0,StreetAddress,100 SADIE ST,South Bend,46628,IN,2020/07/26 05:00:00+00,100 SADIE ST,South Bend,IN,No,2020
+-86.28162267,41.67684003,540,Centerline_CoS,M,90.87,A,100 N Sadie St,R,0,StreetAddress,100 SADIE ST,South Bend,46628,IN,2020/07/26 05:00:00+00,100 SADIE ST,South Bend,IN,No,2020
+-86.30337041,41.67184396,541,Centerline_CoS,M,100,A,4000 W Western Ave,L,0,StreetAddress,4000 W WESTERN AVE,South Bend,46619,IN,2020/08/01 05:00:00+00,4000 W WESTERN AVE,South Bend,IN,No,2020
+-86.21651186,41.69835675,542,Address_CoSB,M,100,A,"1700 N IRONWOOD DR, SOUTH BEND, IN, 46635",,99050,PointAddress,1700 N IRONWOOD DR,South Bend,46635,IN,2020/08/01 05:00:00+00,1700 N IRONWOOD DR,South Bend,IN,No,2020
+-86.21188704,41.66241846,543,Centerline_CoS,M,100,A,1200 S 25th St,L,0,StreetAddress,1200 S 25TH ST,South Bend,46615,IN,2020/08/04 05:00:00+00,1200 S 25TH ST,South Bend,IN,No,2020
+-86.24305582,41.66943168,544,Centerline_CoS,M,100,A,600 E South St,R,0,StreetAddress,600 E SOUTH ST,South Bend,46601,IN,2020/08/06 05:00:00+00,600 E SOUTH ST,South Bend,IN,No,2020
+-86.29714063,41.69460268,545,Centerline_CoS,M,90.87,A,1500 N Ryer St,R,0,StreetAddress,1500 RYER ST,South Bend,46628,IN,2020/08/07 05:00:00+00,1500 RYER ST,South Bend,IN,No,2020
+-86.29885902,41.675392,546,Address_CoSB,M,92.5,A,"3600 W WASHINGTON ST, South Bend, IN, 46601",,88330,PointAddress,3600 W WASHINGTON ST,South Bend,46619,IN,2020/08/09 05:00:00+00,3600 W WASHINGTON ST,South Bend,IN,No,2020
+-86.2707796,41.65977053,547,Centerline_CoS,M,100,A,1400 S Walnut St,L,0,StreetAddress,1400 S WALNUT ST,South Bend,46619,IN,2020/08/11 05:00:00+00,1400 S WALNUT ST,South Bend,IN,No,2020
+-86.25041782,41.68319212,548,Centerline_CoS,M,100,A,600 N Michigan St,R,0,StreetAddress,600 N MICHIGAN ST,South Bend,46601,IN,2020/08/15 05:00:00+00,600 N MICHIGAN ST,South Bend,IN,No,2020
+-86.22141709,41.63787395,549,Centerline_CoS,M,100,A,1700 E Woodmont Dr,R,0,StreetAddress,1700 E WOODMONT DR,South Bend,46614,IN,2020/08/15 05:00:00+00,1700 E WOODMONT DR,South Bend,IN,Yes,2020
+-86.19651682,41.69063884,550,Centerline_CoS,M,100,A,1100 N Hickory Rd,R,0,StreetAddress,1100 N HICKORY RD,South Bend,46615,IN,2020/08/19 05:00:00+00,1100 N HICKORY RD,South Bend,IN,No,2020
+-86.28139489,41.69934472,551,Centerline_CoS,M,100,A,1800 N Huey St,R,0,StreetAddress,1800 N HUEY ST,South Bend,46628,IN,2020/08/29 05:00:00+00,1800 N HUEY ST,South Bend,IN,No,2020
+-86.23923153,41.65269708,552,Centerline_CoS,M,100,A,800 E Donald St,R,0,StreetAddress,800 E DONALD ST,South Bend,46613,IN,2020/08/29 05:00:00+00,800 E DONALD ST,South Bend,IN,Yes,2020
+-86.28121006,41.68926952,553,Centerline_CoS,M,90.87,A,1100 N Huey St,R,0,StreetAddress,1100 HUEY ST,South Bend,46628,IN,2020/08/30 05:00:00+00,1100 HUEY ST,South Bend,IN,No,2020
+-86.23484735,41.6546417,554,Centerline_CoS,M,90.87,A,1900 S Miami St,L,0,StreetAddress,1900 MIAMI ST,South Bend,46613,IN,2020/08/30 05:00:00+00,1900 MIAMI ST,South Bend,IN,No,2020
+-86.28237092,41.68539944,555,Centerline_CoS,M,100,A,800 N Elmer St,R,0,StreetAddress,800 N ELMER ST,South Bend,46628,IN,2020/09/08 05:00:00+00,800 N ELMER ST,South Bend,IN,No,2020
+-86.27518585,41.69087295,556,Centerline_CoS,M,89.04,A,1200 N Adams St,R,0,StreetAddress,1200 N ADAMS ,South Bend,46628,IN,2020/09/13 05:00:00+00,1200 N ADAMS ,South Bend,IN,No,2020
+-86.2973821,41.688422,557,Centerline_CoS,M,90.87,A,3400 W Curtiss Dr,L,0,StreetAddress,3400 CURTISS DR,South Bend,46628,IN,2020/10/09 05:00:00+00,3400 CURTISS DR,South Bend,IN,No,2020
+-86.25720483,41.67120187,558,Centerline_CoS,M,90.87,A,600 W Monroe Cir,L,0,StreetAddress,600 MONROE CIR,South Bend,46601,IN,2020/10/10 05:00:00+00,600 MONROE CIR,South Bend,IN,No,2020
+-86.26360077,41.68238035,559,Centerline_SJC,M,79,M,"1001 LINCOLN WAY W, SOUTH BEND, 46616",R,0,StreetAddress,1000 LINCOLN WAY W,South Bend,46616,IN,2020/10/10 05:00:00+00,1000 LINCOLN WAY W,South Bend,IN,No,2020
+-86.20618446,41.68759466,560,Centerline_CoS,M,90.87,A,900 N Patty Ln,R,0,StreetAddress,900 PATTY LN,South Bend,46615,IN,2020/10/10 05:00:00+00,900 PATTY LN,South Bend,IN,No,2020
+-86.25444145,41.65155302,561,Centerline_CoS,M,90.87,A,2200 S Franklin St,L,0,StreetAddress,2200 FRANKLIN ST,South Bend,46613,IN,2020/10/11 05:00:00+00,2200 FRANKLIN ST,South Bend,IN,No,2020
+-86.2756496,41.6781971,562,Centerline_CoS,M,90.87,A,200 N College St,R,0,StreetAddress,200 COLLEGE ST,South Bend,46628,IN,2020/10/17 05:00:00+00,200 COLLEGE ST,South Bend,IN,Yes,2020
+-86.27657815,41.6820928,563,Centerline_SJC,M,79.91,M,"1800 W FASSNACHT ST, SOUTH BEND, 46628",L,0,StreetAddress,1800 FASSNACHT AVE,South Bend,46628,IN,2020/10/17 05:00:00+00,1800 FASSNACHT AVE,South Bend,IN,No,2020
+-86.23008633,41.68056049,564,Centerline_CoS,M,100,A,"E Madison St & N Sunnyside Ave,",,,StreetInt,E MADISON ST & N SUNNYSIDE AVE,South Bend,46617,IN,2020/10/17 05:00:00+00,E MADISON ST & N SUNNYSIDE AVE,South Bend,IN,No,2020
+-86.23482071,41.65400195,565,Address_CoSB,M,84.44,A,"1914 MIAMI ST, SOUTH BEND, IN, 46601",,51818,PointAddress,1914 S MIAMI ST,South Bend,46613,IN,2020/10/22 05:00:00+00,1914 S MIAMI ST,South Bend,IN,No,2020
+-86.20453434,41.69307364,566,Centerline_CoS,M,90.87,A,1300 N Woodfield Ave,R,0,StreetAddress,1300 WOODFIELD AVE,South Bend,46615,IN,2020/10/22 05:00:00+00,1300 WOODFIELD AVE,South Bend,IN,Yes,2020
+-86.20453434,41.69307364,567,Centerline_CoS,M,90.87,A,1300 N Woodfield Ave,R,0,StreetAddress,1300 WOODFIELD AVE,South Bend,46615,IN,2020/10/22 05:00:00+00,1300 WOODFIELD AVE,South Bend,IN,Yes,2020
+,,568,-1,U,0,A,,,,,UNKNOWN,South Bend,,IN,2020/10/23 05:00:00+00,UNKNOWN,South Bend,IN,No,2020
+-86.23785743,41.65513266,569,Centerline_CoS,M,90.87,A,900 E Milton St,R,0,StreetAddress,900 MILTON ST,South Bend,46613,IN,2020/10/24 05:00:00+00,900 MILTON ST,South Bend,IN,No,2020
+-86.28109648,41.68542024,570,Centerline_CoS,M,100,A,800 N Huey St,R,0,StreetAddress,800 N HUEY ST,South Bend,46628,IN,2020/10/24 05:00:00+00,800 N HUEY ST,South Bend,IN,No,2020
+-86.2319999,41.65483192,571,Centerline_CoS,M,100,A,1200 E Calvert St,R,0,StreetAddress,1200 E CALVERT ST,South Bend,46613,IN,2020/10/25 05:00:00+00,1200 E CALVERT ST,South Bend,IN,No,2020
+-86.23935274,41.63867179,572,Centerline_SJC,M,100,M,"3500 S HIGH ST, SOUTH BEND, 46614",L,0,StreetAddress,3500 S HIGH ST,South Bend,46614,IN,2020/10/31 05:00:00+00,3500 S HIGH ST,South Bend,IN,No,2020
+-86.23935274,41.63867179,573,Centerline_SJC,M,100,M,"3500 S HIGH ST, SOUTH BEND, 46614",L,0,StreetAddress,3500 S HIGH ST,South Bend,46614,IN,2020/10/31 05:00:00+00,3500 S HIGH ST,South Bend,IN,No,2020
+-86.26583887,41.69619804,574,Centerline_CoS,M,90.87,A,1100 W Queen St,L,0,StreetAddress,1100  QUEEN ST,South Bend,46616,IN,2020/11/01 05:00:00+00,1100  QUEEN ST,South Bend,IN,Yes,2020
+-86.24134983,41.66960865,575,Centerline_SJC,M,100,M,"700 LINCOLN WAY E, SOUTH BEND, 46601",L,0,StreetAddress,700 LINCOLN WY E,South Bend,46601,IN,2020/11/02 05:00:00+00,700 LINCOLN WY E,South Bend,IN,No,2020
+-86.29957212,41.67007791,576,Centerline_CoS,M,100,A,500 S Wellington St,L,0,StreetAddress,500 S WELLINGTON ST,South Bend,46619,IN,2020/11/15 05:00:00+00,500 S WELLINGTON ST,South Bend,IN,No,2020
+-86.28580362,41.7183864,577,Centerline_CoS,M,100,A,2500 Flint Ct,R,0,StreetAddress,2500 FLINT CT,South Bend,46628,IN,2020/11/20 05:00:00+00,2500 FLINT CT,South Bend,IN,No,2020
+-86.29461,41.66464835,578,Centerline_SJC,M,100,M,"3200 W SAMPLE ST, SOUTH BEND, 46619",L,0,StreetAddress,3200 W Sample St,South Bend,46619,IN,2020/11/25 05:00:00+00,3200 W Sample St,South Bend,IN,No,2020
+-86.28474686,41.68918731,579,Centerline_CoS,M,90.87,A,1100 N Fremont St,R,0,StreetAddress,1100  Fremont St,South Bend,46628,IN,2020/11/26 05:00:00+00,1100  Fremont St,South Bend,IN,No,2020
+-86.25999469,41.65778158,580,Centerline_CoS,M,97.43,A,"W Indiana Ave & S Kendall St,",,,StreetInt,W Indiana Ave & Kendall St,South Bend,46613,IN,2020/11/27 05:00:00+00,W Indiana Ave & Kendall St,South Bend,IN,Yes,2020
+-86.25013258,41.66515724,581,Centerline_CoS,M,100,A,"E Sample St & S Michigan St,",,,StreetInt,E Sample St & S Michigan St,South Bend,46601,IN,2020/12/04 05:00:00+00,E Sample St & S Michigan St,South Bend,IN,Yes,2020
+-86.21780699,41.6563802,582,Address_CoSB,M,84.44,A,"1900 LINCOLN WAY E, SOUTH BEND, IN, 46613",,104770,PointAddress,1900 Lincoln Way W,South Bend,46628,IN,2020/12/18 05:00:00+00,1900 Lincoln Way W,South Bend,IN,No,2020
+-86.22572212,41.68246989,583,,M,100,PP,"x=-86.225722, y=41.682470",,0,StreetAddress,500 N Twyckenham Dr,South Bend,46617,IN,2020/12/19 05:00:00+00,500 N Twyckenham Dr,South Bend,IN,No,2020
+-86.25883093,41.65772928,584,Centerline_CoS,M,100,A,700 W Indiana Ave,L,0,StreetAddress,700 W Indiana Ave,South Bend,46613,IN,2020/12/27 05:00:00+00,700 W Indiana Ave,South Bend,IN,No,2020
+-86.25883093,41.65772928,585,Centerline_CoS,M,100,A,700 W Indiana Ave,L,0,StreetAddress,700 W Indiana Ave,South Bend,46613,IN,2020/12/27 05:00:00+00,700 W Indiana Ave,South Bend,IN,No,2020
+-86.25883093,41.65772928,586,Centerline_CoS,M,100,A,700 W Indiana Ave,L,0,StreetAddress,700 W Indiana Ave,South Bend,46613,IN,2020/12/27 05:00:00+00,700 W Indiana Ave,South Bend,IN,No,2020
+-86.27889163,41.68682799,587,Centerline_CoS,M,90.87,A,2000 Lincoln Way,L,0,StreetAddress,2000 Lincoln Way W,South Bend,46628,IN,2020/12/29 05:00:00+00,2000 Lincoln Way W,South Bend,IN,Yes,2020
+-86.29717569,41.67193896,588,Centerline_CoS,M,100,A,400 S Falcon St,L,0,StreetAddress,400 S Falcon St,South Bend,46619,IN,2020/12/30 05:00:00+00,400 S Falcon St,South Bend,IN,No,2020
+-86.26745368,41.66855039,589,Centerline_CoS,M,97.43,A,"W Ford St & S Arnold St,",,,StreetInt, Ford St & S Arnold St,South Bend,46619,IN,2020/12/31 05:00:00+00, Ford St & S Arnold St,South Bend,IN,No,2020
+-86.26745368,41.66855039,590,Centerline_CoS,M,97.43,A,"W Ford St & S Arnold St,",,,StreetInt, Ford St & S Arnold St,South Bend,46619,IN,2020/12/31 05:00:00+00, Ford St & S Arnold St,South Bend,IN,No,2020
+-86.22425589,41.69094138,591,Centerline_CoS,M,90.87,A,1200 N White Oak Dr,R,0,StreetAddress,1200  White Oak Dr,South Bend,46617,IN,2021/01/01 05:00:00+00,1200  White Oak Dr,South Bend,IN,No,2021
+-86.25662907,41.68164321,592,Centerline_CoS,M,100,A,500 W Marion St,L,0,StreetAddress,500 W Marion St,South Bend,46616,IN,2021/01/02 05:00:00+00,500 W Marion St,South Bend,IN,Yes,2021
+-86.26779939,41.68350556,593,Centerline_SJC,M,100,M,"1200 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1200 Lincoln Way W,South Bend,46628,IN,2021/01/08 05:00:00+00,1200 Lincoln Way W,South Bend,IN,No,2021
+-86.28260966,41.69376881,594,Centerline_CoS,M,100,A,2300 W Elwood Ave,L,0,StreetAddress,2300 W Elwood Ave,South Bend,46628,IN,2021/01/21 05:00:00+00,2300 W Elwood Ave,South Bend,IN,No,2021
+-86.25041782,41.68319212,595,Centerline_CoS,M,100,A,600 N Michigan St,R,0,StreetAddress,600 N Michigan St,South Bend,46601,IN,2021/01/23 05:00:00+00,600 N Michigan St,South Bend,IN,No,2021
+-86.27059663,41.67020961,596,Address_CoSB,M,91.83,A,"500 S WALNUT ST, IN, 46619",,120868,PointAddress,500 S Walnut St,South Bend,46619,IN,2021/02/06 05:00:00+00,500 S Walnut St,South Bend,IN,Yes,2021
+-86.27106743,41.68692998,597,Centerline_CoS,M,100,A,900 N Lawndale Ave,R,0,StreetAddress,900 N Lawndale Ave,South Bend,46628,IN,2021/02/14 05:00:00+00,900 N Lawndale Ave,South Bend,IN,No,2021
+-86.27766544,41.69084491,598,Centerline_CoS,M,89.04,A,1200 N Brookfield St,R,0,StreetAddress,1200 N Brookfield,South Bend,46628,IN,2021/02/20 05:00:00+00,1200 N Brookfield,South Bend,IN,Yes,2021
+-86.26160311,41.69902088,599,Centerline_CoS,M,94.86,A,"W Roosevelt St & N Cushing St,",,,StreetInt,Roosevelt St & Cushing St,South Bend,46616,IN,2021/02/21 05:00:00+00,Roosevelt St & Cushing St,South Bend,IN,No,2021
+-86.30337041,41.67184396,600,Centerline_CoS,M,100,A,4000 W Western Ave,L,0,StreetAddress,4000 W Western Ave,South Bend,46619,IN,2021/02/21 05:00:00+00,4000 W Western Ave,South Bend,IN,No,2021
+-86.23090009,41.66582146,601,Centerline_CoS,M,100,A,1300 E Mishawaka Ave,R,0,StreetAddress,1300 E Mishawaka Ave,South Bend,46544,IN,2021/02/26 05:00:00+00,1300 E Mishawaka Ave,South Bend,IN,No,2021
+-86.26982854,41.68782863,602,Centerline_CoS,M,90.87,A,1000 N Diamond Ave,R,0,StreetAddress,1000  Diamond Ave,South Bend,46628,IN,2021/02/28 05:00:00+00,1000  Diamond Ave,South Bend,IN,No,2021
+-86.27515398,41.68928097,603,Centerline_CoS,M,100,A,1100 N Adams St,R,0,StreetAddress,1100 N Adams St,South Bend,46628,IN,2021/02/28 05:00:00+00,1100 N Adams St,South Bend,IN,No,2021
+-86.27315455,41.67685669,604,Centerline_CoS,M,90.87,A,1500 W Liston St,L,0,StreetAddress,1500 Liston St,South Bend,46628,IN,2021/03/01 05:00:00+00,1500 Liston St,South Bend,IN,Yes,2021
+-86.29461,41.66464835,605,Centerline_SJC,M,100,M,"3200 W SAMPLE ST, SOUTH BEND, 46619",L,0,StreetAddress,3200 W Sample St,South Bend,46619,IN,2020/11/25 05:00:00+00,3200 W Sample St,South Bend,IN,No,2020
+-86.28474686,41.68918731,606,Centerline_CoS,M,90.87,A,1100 N Fremont St,R,0,StreetAddress,1100  Fremont St,South Bend,46628,IN,2020/11/26 05:00:00+00,1100  Fremont St,South Bend,IN,No,2020
+-86.25999469,41.65778158,607,Centerline_CoS,M,97.43,A,"W Indiana Ave & S Kendall St,",,,StreetInt,W Indiana Ave & Kendall St,South Bend,46613,IN,2020/11/27 05:00:00+00,W Indiana Ave & Kendall St,South Bend,IN,Yes,2020
+-86.25013258,41.66515724,608,Centerline_CoS,M,100,A,"E Sample St & S Michigan St,",,,StreetInt,E Sample St & S Michigan St,South Bend,46601,IN,2020/12/04 05:00:00+00,E Sample St & S Michigan St,South Bend,IN,Yes,2020
+-86.21780699,41.6563802,609,Address_CoSB,M,84.44,A,"1900 LINCOLN WAY E, SOUTH BEND, IN, 46613",,104770,PointAddress,1900 Lincoln Way W,South Bend,46628,IN,2020/12/18 05:00:00+00,1900 Lincoln Way W,South Bend,IN,No,2020
+-86.22572212,41.68246989,610,,M,100,PP,"x=-86.225722, y=41.682470",,0,StreetAddress,500 N Twyckenham Dr,South Bend,46617,IN,2020/12/19 05:00:00+00,500 N Twyckenham Dr,South Bend,IN,No,2020
+-86.25883093,41.65772928,611,Centerline_CoS,M,100,A,700 W Indiana Ave,L,0,StreetAddress,700 W Indiana Ave,South Bend,46613,IN,2020/12/27 05:00:00+00,700 W Indiana Ave,South Bend,IN,No,2020
+-86.25883093,41.65772928,612,Centerline_CoS,M,100,A,700 W Indiana Ave,L,0,StreetAddress,700 W Indiana Ave,South Bend,46613,IN,2020/12/27 05:00:00+00,700 W Indiana Ave,South Bend,IN,No,2020
+-86.25883093,41.65772928,613,Centerline_CoS,M,100,A,700 W Indiana Ave,L,0,StreetAddress,700 W Indiana Ave,South Bend,46613,IN,2020/12/27 05:00:00+00,700 W Indiana Ave,South Bend,IN,No,2020
+-86.27889163,41.68682799,614,Centerline_CoS,M,90.87,A,2000 Lincoln Way,L,0,StreetAddress,2000 Lincoln Way W,South Bend,46628,IN,2020/12/29 05:00:00+00,2000 Lincoln Way W,South Bend,IN,Yes,2020
+-86.29717569,41.67193896,615,Centerline_CoS,M,100,A,400 S Falcon St,L,0,StreetAddress,400 S Falcon St,South Bend,46619,IN,2020/12/30 05:00:00+00,400 S Falcon St,South Bend,IN,No,2020
+-86.26745368,41.66855039,616,Centerline_CoS,M,97.43,A,"W Ford St & S Arnold St,",,,StreetInt, Ford St & S Arnold St,South Bend,46619,IN,2020/12/31 05:00:00+00, Ford St & S Arnold St,South Bend,IN,No,2020
+-86.26745368,41.66855039,617,Centerline_CoS,M,97.43,A,"W Ford St & S Arnold St,",,,StreetInt, Ford St & S Arnold St,South Bend,46619,IN,2020/12/31 05:00:00+00, Ford St & S Arnold St,South Bend,IN,No,2020
+-86.22425589,41.69094138,618,Centerline_CoS,M,90.87,A,1200 N White Oak Dr,R,0,StreetAddress,1200  White Oak Dr,South Bend,46617,IN,2021/01/01 05:00:00+00,1200  White Oak Dr,South Bend,IN,No,2021
+-86.25662907,41.68164321,619,Centerline_CoS,M,100,A,500 W Marion St,L,0,StreetAddress,500 W Marion St,South Bend,46616,IN,2021/01/02 05:00:00+00,500 W Marion St,South Bend,IN,Yes,2021
+-86.26779939,41.68350556,620,Centerline_SJC,M,100,M,"1200 LINCOLN WAY W, SOUTH BEND, 46628",L,0,StreetAddress,1200 Lincoln Way W,South Bend,46628,IN,2021/01/08 05:00:00+00,1200 Lincoln Way W,South Bend,IN,No,2021
+-86.28260966,41.69376881,621,Centerline_CoS,M,100,A,2300 W Elwood Ave,L,0,StreetAddress,2300 W Elwood Ave,South Bend,46628,IN,2021/01/21 05:00:00+00,2300 W Elwood Ave,South Bend,IN,No,2021
+-86.25041782,41.68319212,622,Centerline_CoS,M,100,A,600 N Michigan St,R,0,StreetAddress,600 N Michigan St,South Bend,46601,IN,2021/01/23 05:00:00+00,600 N Michigan St,South Bend,IN,No,2021
+-86.27059663,41.67020961,623,Address_CoSB,M,91.83,A,"500 S WALNUT ST, IN, 46619",,120868,PointAddress,500 S Walnut St,South Bend,46619,IN,2021/02/06 05:00:00+00,500 S Walnut St,South Bend,IN,Yes,2021
+-86.27106743,41.68692998,624,Centerline_CoS,M,100,A,900 N Lawndale Ave,R,0,StreetAddress,900 N Lawndale Ave,South Bend,46628,IN,2021/02/14 05:00:00+00,900 N Lawndale Ave,South Bend,IN,No,2021
+-86.27766544,41.69084491,625,Centerline_CoS,M,89.04,A,1200 N Brookfield St,R,0,StreetAddress,1200 N Brookfield,South Bend,46628,IN,2021/02/20 05:00:00+00,1200 N Brookfield,South Bend,IN,Yes,2021
+-86.26160311,41.69902088,626,Centerline_CoS,M,94.86,A,"W Roosevelt St & N Cushing St,",,,StreetInt,Roosevelt St & Cushing St,South Bend,46616,IN,2021/02/21 05:00:00+00,Roosevelt St & Cushing St,South Bend,IN,No,2021
+-86.30337041,41.67184396,627,Centerline_CoS,M,100,A,4000 W Western Ave,L,0,StreetAddress,4000 W Western Ave,South Bend,46619,IN,2021/02/21 05:00:00+00,4000 W Western Ave,South Bend,IN,No,2021
+-86.23090009,41.66582146,628,Centerline_CoS,M,100,A,1300 E Mishawaka Ave,R,0,StreetAddress,1300 E Mishawaka Ave,South Bend,46544,IN,2021/02/26 05:00:00+00,1300 E Mishawaka Ave,South Bend,IN,No,2021
+-86.26982854,41.68782863,629,Centerline_CoS,M,90.87,A,1000 N Diamond Ave,R,0,StreetAddress,1000  Diamond Ave,South Bend,46628,IN,2021/02/28 05:00:00+00,1000  Diamond Ave,South Bend,IN,No,2021
+-86.27515398,41.68928097,630,Centerline_CoS,M,100,A,1100 N Adams St,R,0,StreetAddress,1100 N Adams St,South Bend,46628,IN,2021/02/28 05:00:00+00,1100 N Adams St,South Bend,IN,No,2021
+-86.27315455,41.67685669,631,Centerline_CoS,M,90.87,A,1500 W Liston St,L,0,StreetAddress,1500 Liston St,South Bend,46628,IN,2021/03/01 05:00:00+00,1500 Liston St,South Bend,IN,Yes,2021
+-86.23515593,41.67518283,1378,,M,100,A,"E JEFFERSON BLVD & S EDDY ST, SOUTH BEND, IN, 46617",,,StreetInt,E Jefferson Blvd & S Eddy St,South Bend,46617,IN,2021/03/16 05:00:00+00,E Jefferson Blvd & S Eddy St,South Bend,IN,No,2021
+-86.23515593,41.67518283,1379,,M,100,A,"E JEFFERSON BLVD & S EDDY ST, SOUTH BEND, IN, 46617",,,StreetInt,E Jefferson Blvd & S Eddy St,South Bend,46617,IN,2021/03/16 05:00:00+00,E Jefferson Blvd & S Eddy St,South Bend,IN,Yes,2021
+-86.28143386,41.69939262,1380,,M,100,A,"1800 HUEY ST, SOUTH BEND, IN, 46628",R,,StreetAddress,1800 Huey St,South Bend,46628,IN,2021/03/25 05:00:00+00,1800 Huey St,South Bend,IN,No,2021
+-86.26826752,41.67317956,1381,,M,92.43,A,"1200 NAPIER ST, SOUTH BEND, IN, 46601",L,,StreetAddress,1200 W Napier St,South Bend,46601,IN,2021/03/14 05:00:00+00,1200 W Napier St,South Bend,IN,No,2021
+-86.26215198,41.65628917,1382,,M,100,A,"1700 CATALPA AVE, SOUTH BEND, IN, 46613",L,,StreetAddress,1700 Catalpa Ave,South Bend,46613,IN,2021/03/26 05:00:00+00,1700 Catalpa Ave,South Bend,IN,No,2021
+-86.26754504,41.66670982,1383,,M,100,A,"1200 DUNHAM ST, SOUTH BEND, IN, 46619",L,,StreetAddress,1200 Dunham St,South Bend,46619,IN,2021/04/01 05:00:00+00,1200 Dunham St,South Bend,IN,Yes,2021
+-86.26754504,41.66670982,1384,,M,100,A,"1200 DUNHAM ST, SOUTH BEND, IN, 46619",L,,StreetAddress,1200 Dunham St,South Bend,46619,IN,2021/04/01 05:00:00+00,1200 Dunham St,South Bend,IN,No,2021
+-86.26376638,41.68393485,1385,,M,79,M,"1001 LINDSEY AVE, SOUTH BEND, IN, 46616",R,,StreetAddress,1000 Lindsey Ave,South Bend,46616,IN,2021/03/20 05:00:00+00,1000 Lindsey Ave,South Bend,IN,No,2021
+-86.29738619,41.68849674,1386,,M,90.92,A,"3400 CURTISS DR, SOUTH BEND, IN, 46628",L,,StreetAddress,3400 W Curtiss Cir,South Bend,46628,IN,2021/04/04 05:00:00+00,3400 W Curtiss Cir,South Bend,IN,No,2021
+-86.28260466,41.68791588,1387,,M,100,A,"2300 LINCOLN WAY W, SOUTH BEND, IN, 46628",L,,StreetAddress,2300 Lincoln Way W St,South Bend,46628,IN,2021/04/04 05:00:00+00,2300 Lincoln Way W St,South Bend,IN,No,2021
+-86.28053389,41.68158591,1388,,M,100,A,"2100 BERTRAND ST, SOUTH BEND, IN, 46628",L,,StreetAddress,2100 Bertrand St,South Bend,46628,IN,2021/04/06 05:00:00+00,2100 Bertrand St,South Bend,IN,No,2021
+-86.23652789,41.68436996,1389,,M,100,A,"700 N FRANCES ST, SOUTH BEND, IN, 46617",R,,StreetAddress,700 N Frances St,South Bend,46617,IN,2021/04/06 05:00:00+00,700 N Frances St,South Bend,IN,No,2021
+-86.23652789,41.68436996,1390,,M,100,A,"700 N FRANCES ST, SOUTH BEND, IN, 46617",R,,StreetAddress,700 N Frances St,South Bend,46617,IN,2021/04/06 05:00:00+00,700 N Frances St,South Bend,IN,No,2021
+-86.24440303,41.6590141,1391,,M,100,A,"1500 FELLOWS ST, SOUTH BEND, IN, 46613",L,,StreetAddress,1500 Fellows St,South Bend,46613,IN,2021/04/12 05:00:00+00,1500 Fellows St,South Bend,IN,Yes,2021
+-86.24440303,41.6590141,1392,,M,100,A,"1500 FELLOWS ST, SOUTH BEND, IN, 46613",L,,StreetAddress,1500 Fellows St,South Bend,46613,IN,2021/04/12 05:00:00+00,1500 Fellows St,South Bend,IN,No,2021
+-86.29590329,41.66829415,1393,,M,100,PP,"x=156165.891473, y=2339126.356589",,,,700 S Lake St,South Bend,46619,IN,2021/03/28 05:00:00+00,700 S Lake St,South Bend,IN,No,2021
+-86.30081335,41.66918857,1394,,M,100,A,"600 S ILLINOIS ST, SOUTH BEND, IN, 46619",L,,StreetAddress,600 S Illinois St,South Bend,46619,IN,2021/04/27 05:00:00+00,600 S Illinois St,South Bend,IN,Yes,2021
+-86.30081335,41.66918857,1395,,M,100,A,"600 S ILLINOIS ST, SOUTH BEND, IN, 46619",L,,StreetAddress,600 S Illinois St,South Bend,46619,IN,2021/04/27 05:00:00+00,600 S Illinois St,South Bend,IN,No,2021
+-86.27269198,41.65348131,1396,,M,100,PP,"x=162469.718992, y=2333683.381783",,,,1900 Prairie Av,South Bend,46613,IN,2021/03/15 05:00:00+00,1900 Prairie Av,South Bend,IN,No,2021
+-86.27897382,41.69385165,1397,,M,96.42,A,"JOHNSON ST & ELWOOD AVE, SOUTH BEND, IN, 46628",,,StreetInt,N Johnson St & Elwood Ave,South Bend,46628,IN,2021/05/01 05:00:00+00,N Johnson St & Elwood Ave,South Bend,IN,No,2021
+-86.27897382,41.69385165,1398,,M,96.42,A,"JOHNSON ST & ELWOOD AVE, SOUTH BEND, IN, 46628",,,StreetInt,N Johnson St & Elwood Ave,South Bend,46628,IN,2021/05/01 05:00:00+00,N Johnson St & Elwood Ave,South Bend,IN,No,2021
+-86.27349395,41.67937831,1399,,M,92.43,A,"1500 LINDEN AVE, SOUTH BEND, IN, 46628",L,,StreetAddress,1500 W Linden Ave,South Bend,46628,IN,2021/05/05 05:00:00+00,1500 W Linden Ave,South Bend,IN,No,2021
+-86.28248241,41.68546269,1400,,M,79,M,"801 N ELMER ST, SOUTH BEND, IN, 46628",L,,StreetAddress,800 N Elmer St,South Bend,46628,IN,2021/05/05 05:00:00+00,800 N Elmer St,South Bend,IN,No,2021
+-86.28109835,41.68542088,1401,,M,100,PP,"x=160255.388014, y=2345337.852454",,,,800 Huey St,South Bend,46628,IN,2021/05/10 05:00:00+00,800 Huey St,South Bend,IN,No,2021
+-86.28260466,41.68791588,1402,,M,92.43,A,"2300 LINCOLN WAY W, SOUTH BEND, IN, 46628",L,,StreetAddress,2300 W Lincoln Way,South Bend,46628,IN,2021/04/03 05:00:00+00,2300 W Lincoln Way,South Bend,IN,No,2021
+-86.23299595,41.68598978,1403,,M,100,A,"1200 CAMPEAU ST, SOUTH BEND, IN, 46617",R,,StreetAddress,1200 Campeau St,South Bend,46617,IN,2021/05/19 05:00:00+00,1200 Campeau St,South Bend,IN,No,2021
+-86.23299595,41.68598978,1404,,M,100,A,"1200 CAMPEAU ST, SOUTH BEND, IN, 46617",R,,StreetAddress,1200 Campeau St,South Bend,46617,IN,2021/05/19 05:00:00+00,1200 Campeau St,South Bend,IN,No,2021
+-86.28109755,41.68542493,1405,,M,100,PP,"x=160255.617978, y=2345339.325843",,,,800 Huey St,South Bend,46628,IN,2021/05/10 05:00:00+00,800 Huey St,South Bend,IN,No,2021
+-86.28104276,41.67932866,1406,,M,100,PP,"x=160254.741573, y=2343117.842697",,,,300 N Huey St,South Bend,46628,IN,2021/04/12 05:00:00+00,300 N Huey St,South Bend,IN,No,2021
+-86.23651996,41.68355002,1407,,M,90.92,A,"600 N FRANCES ST, SOUTH BEND, IN, 46617",R,,StreetAddress,600 N Frances,South Bend,46617,IN,2021/05/26 05:00:00+00,600 N Frances,South Bend,IN,No,2021
+-86.28271328,41.69379527,1408,,M,92.43,A,"2300 ELWOOD AVE, SOUTH BEND, IN, 46628",L,,StreetAddress,2300 W Elwood Ave,South Bend,46628,IN,2021/05/21 05:00:00+00,2300 W Elwood Ave,South Bend,IN,No,2021
+-86.28009383,41.69278331,1409,,M,98.32,A,"1300 OBRIEN ST, SOUTH BEND, IN, 46628",R,,StreetAddress,1300 O Brien St,South Bend,46628,IN,2021/06/02 05:00:00+00,1300 O Brien St,South Bend,IN,No,2021
+-86.23720433,41.65708253,1410,,M,90.92,A,"900 E DUBAIL AVE, SOUTH BEND, IN, 46613",R,,StreetAddress,900 E Dubail St,South Bend,46613,IN,2021/05/28 05:00:00+00,900 E Dubail St,South Bend,IN,No,2021
+-86.27090161,41.66493203,1411,,M,100,A,"W SAMPLE ST & S WALNUT ST, SOUTH BEND, IN, 46619",,,StreetInt,W Sample St & S Walnut St,South Bend,46619,IN,2021/06/03 05:00:00+00,W Sample St & S Walnut St,South Bend,IN,No,2021
+-86.19911023,41.67293494,1412,,M,100,PP,"x=182622.055088, y=2340639.136725",,,,3500 E Jefferson Blvd,South Bend,46615,IN,2021/05/13 05:00:00+00,3500 E Jefferson Blvd,South Bend,IN,No,2021
+-86.27764493,41.68761087,1413,,M,100,A,"1000 N BROOKFIELD ST, SOUTH BEND, IN, 46628",R,,StreetAddress,1000 N Brookfield St,South Bend,46628,IN,2021/06/10 05:00:00+00,1000 N Brookfield St,South Bend,IN,Yes,2021
+-86.26134825,41.68713798,1414,,M,90.92,A,"900 PORTAGE AVE, SOUTH BEND, IN, 46616",R,,StreetAddress,900 Portage,South Bend,46616,IN,2021/06/08 05:00:00+00,900 Portage,South Bend,IN,No,2021
+-86.28572267,41.66832216,1415,,M,79,M,"701 S MEADE ST, SOUTH BEND, IN, 46619",R,,StreetAddress,700 S Meade St,South Bend,46619,IN,2021/05/22 05:00:00+00,700 S Meade St,South Bend,IN,No,2021
+-86.24770915,41.64884122,1416,,M,100,A,"200 E VICTORIA ST, SOUTH BEND, IN, 46614",R,,StreetAddress,200 E Victoria St,South Bend,46614,IN,2021/06/14 05:00:00+00,200 E Victoria St,South Bend,IN,No,2021
+-86.24770915,41.64884122,1417,,M,100,A,"200 E VICTORIA ST, SOUTH BEND, IN, 46614",R,,StreetAddress,200 E Victoria St,South Bend,46614,IN,2021/06/14 05:00:00+00,200 E Victoria St,South Bend,IN,No,2021
+-86.26865661,41.6894398,1418,,M,100,A,"1100 N CLEVELAND AVE, SOUTH BEND, IN, 46628",R,,StreetAddress,1100 N Cleveland Ave,South Bend,46628,IN,2021/06/14 05:00:00+00,1100 N Cleveland Ave,South Bend,IN,No,2021
+-86.14668612,41.66498892,1419,,M,95.92,A,"1900 LINDEN AVE, MISHAWAKA, IN, 46544",L,,StreetAddress,1900 Linden Ave,South Bend,46544,IN,2021/06/14 05:00:00+00,1900 Linden Ave,South Bend,IN,No,2021
+-86.25013057,41.67095617,1420,,M,100,A,"100 E MONROE ST, SOUTH BEND, IN, 46601",R,,StreetAddress,100 E Monroe St,South Bend,46601,IN,2021/06/22 05:00:00+00,100 E Monroe St,South Bend,IN,No,2021
+-86.28271328,41.69379527,1421,,M,92.43,A,"2300 ELWOOD AVE, SOUTH BEND, IN, 46628",L,,StreetAddress,2300 W Elwood Ave,South Bend,46628,IN,2021/06/20 05:00:00+00,2300 W Elwood Ave,South Bend,IN,Yes,2021
+-86.27880709,41.68760314,1422,,M,92.43,A,"1000 JOHNSON ST, SOUTH BEND, IN, 46628",R,,StreetAddress,1000 N Johnson St,South Bend,46628,IN,2021/07/04 05:00:00+00,1000 N Johnson St,South Bend,IN,No,2021
+-86.28608864,41.69249305,1423,,M,100,A,"1300 N MEADE ST, SOUTH BEND, IN, 46628",R,,StreetAddress,1300 N Meade St,South Bend,46628,IN,2021/07/08 05:00:00+00,1300 N Meade St,South Bend,IN,No,2021
+-86.26870075,41.69098681,1424,,M,100,A,"1200 N CLEVELAND AVE, SOUTH BEND, IN, 46628",R,,StreetAddress,1200 N Cleveland Ave,South Bend,46628,IN,2021/07/19 05:00:00+00,1200 N Cleveland Ave,South Bend,IN,No,2021
+-86.26870075,41.69098681,1425,,M,100,A,"1200 N CLEVELAND AVE, SOUTH BEND, IN, 46628",R,,StreetAddress,1200 N Cleveland Ave,South Bend,46628,IN,2021/07/19 05:00:00+00,1200 N Cleveland Ave,South Bend,IN,No,2021
+-86.28490441,41.69573085,1426,,M,100,A,"1600 FREMONT ST, SOUTH BEND, IN, 46628",R,,StreetAddress,1600 Fremont St,South Bend,46628,IN,2021/07/21 05:00:00+00,1600 Fremont St,South Bend,IN,No,2021
+-86.27082746,41.654002,1427,,M,100,PP,"x=162980.587896, y=2333869.533437",,,,1900 S Walnut St,South Bend,46613,IN,2021/06/05 05:00:00+00,1900 S Walnut St,South Bend,IN,No,2021
+-86.31307623,41.6814466,1428,,M,79,M,"4701 JAMESTOWN CT, SOUTH BEND, IN, 46619",R,,StreetAddress,4700 Jamestown Ct,South Bend,46619,IN,2021/07/22 05:00:00+00,4700 Jamestown Ct,South Bend,IN,No,2021
+-86.26990655,41.68941426,1429,,M,100,A,"1100 DIAMOND AVE, SOUTH BEND, IN, 46628",R,,StreetAddress,1100 Diamond Ave,South Bend,46628,IN,2021/07/24 05:00:00+00,1100 Diamond Ave,South Bend,IN,No,2021
+-86.20453217,41.69307741,1430,,M,100,PP,"x=181186.606513, y=2347987.895008",,,,1200 Woodfield Ave,South Bend,46615,IN,2021/07/23 05:00:00+00,1200 Woodfield Ave,South Bend,IN,Yes,2021
+-86.27764078,41.68453322,1431,,M,79,M,"701 N BROOKFIELD ST, SOUTH BEND, IN, 46628",L,,StreetAddress,700 N Brookfield St,South Bend,46628,IN,2021/07/25 05:00:00+00,700 N Brookfield St,South Bend,IN,Yes,2021
+-86.23547273,41.69124755,1432,,M,100,PP,"x=172731.896713, y=2347375.410816",,,,1200 N Eddy St,South Bend,46617,IN,2021/07/25 05:00:00+00,1200 N Eddy St,South Bend,IN,No,2021
+-86.26372065,41.68232522,1433,,M,92.43,A,"1000 LINCOLN WAY W, SOUTH BEND, IN, 46616",L,,StreetAddress,1000 W Lincoln Way W,South Bend,46616,IN,2021/07/07 05:00:00+00,1000 W Lincoln Way W,South Bend,IN,No,2021
+-86.21558512,41.63416809,1434,,M,79,M,"4001 S IRONWOOD RD, SOUTH BEND, IN, 46614",R,,StreetAddress,4000 S Ironwood Rd,South Bend,46614,IN,2021/06/11 05:00:00+00,4000 S Ironwood Rd,South Bend,IN,No,2021

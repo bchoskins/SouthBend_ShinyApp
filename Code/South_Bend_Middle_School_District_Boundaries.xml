@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xalan="http://xml.apache.org/xalan" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isotc211.org/2005/gmd">
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp>
+        <gco:Date>2020-07-17</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <spatialRepresentationInfo>
+        <MD_VectorSpatialRepresentation>
+            <topologyLevel>
+                <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+            </topologyLevel>
+            <geometricObjects>
+                <MD_GeometricObjects>
+                    <geometricObjectType>
+                        <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+                    </geometricObjectType>
+                </MD_GeometricObjects>
+            </geometricObjects>
+        </MD_VectorSpatialRepresentation>
+    </spatialRepresentationInfo>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>6459</gco:CharacterString>
+                    </code>
+                    <codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                    </codeSpace>
+                    <version>
+                        <gco:CharacterString>8.9.3(10.3.1)</gco:CharacterString>
+                    </version>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Middle_School_Boundaries</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                    <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                    </presentationForm>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>This is a map of boundaries for middle school districts in the South Bend Community Schools Corporation.Updated June 2020.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>This is a map of boundaries for middle school districts in the South Bend Community Schools Corporation.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>Created by Davis Demographics</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Downloadable Data</gco:CharacterString>
+                    </keyword>
+                    <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Polygon</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend Public Schools</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>South Bend</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>St. Joseph County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Indiana</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Middle School</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>6-8</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Attendance Area</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <environmentDescription>
+                <gco:CharacterString>Esri ArcGIS 12.5.0.22081</gco:CharacterString>
+            </environmentDescription>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <extentTypeCode>
+                                <gco:Boolean>true</gco:Boolean>
+                            </extentTypeCode>
+                            <westBoundLongitude>
+                                <gco:Decimal>-86.497572</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>-86.176078</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>41.562689</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>41.761065</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat>
+                <MD_Format>
+                    <name>
+                        <gco:CharacterString>File Geodatabase Feature Class</gco:CharacterString>
+                    </name>
+                    <version gco:nilReason="missing"/>
+                </MD_Format>
+            </distributionFormat>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>

@@ -1,0 +1,23 @@
+"","ï..OBJECTID","SchoolName","Type","Address","City","State","SchoolCode","Shape__Area","Shape__Length","lon","lat"
+"1",1,"Coquillard Elementary School","Elementary School","1245 N. Sheridan St.","South Bend","IN",18,228310451.2,110262.643,-86.3036006,41.690959
+"2",2,"Darden Elementary School","Elementary School","18645 Janet Dr.","South Bend","IN",19,370380419.2,108336.3041,-86.2283948,41.7286236
+"3",3,"Harrison Elementary School","Elementary School","3302 W. Western","South Bend","IN",26,58109522.18,39151.04719,-86.2949592,41.6692968
+"4",4,"Hay Elementary School","Elementary School","19685 Johnson Rd","South Bend","IN",27,782843454.5,127311.472,-86.2465718,41.6179308
+"5",5,"Lincoln Elementary School","Elementary School","1425 E. Calvert St.","South Bend","IN",31,64192184.26,40298.0839,-86.2264894,41.6561069
+"6",6,"McKinley Elementary School","Elementary School","228 N. Greenlawn Ave.","South Bend","IN",34,88147631.11,45764.77206,-86.2200582,41.679151
+"7",7,"Madison Elementary School","Elementary School","832 N. Lafayette Blvd.","South Bend","IN",35,61354635.92,39955.87303,-86.2529203,41.6859784
+"8",8,"Monroe Elementary School","Elementary School","312 E. Donmoyer Ave.","South Bend","IN",39,140385469.4,58996.05709,-86.2451433,41.6427898
+"9",9,"Wilson Elementary School","Elementary School","56660 Oak Rd.","South Bend","IN",40,1316676550,173766.5708,-86.3307044,41.6692741
+"10",10,"Muessel Elementary School","Elementary School","1021 Blaine Ave.","South Bend","IN",41,49277908.47,42648.41321,-86.2679949,41.6888003
+"11",11,"Nuner Elementary School","Elementary School","2716 Pleasant St.","South Bend","IN",44,95232474.24,51877.28612,-86.2075549,41.6614549
+"12",12,"Tarkington Elementary School","Elementary School","3414 Hepler St","South Bend","IN",50,241035828.6,71485.77142,-86.2001242,41.7015846
+"13",13,"Warren Elementary School","Elementary School","55400 Quince Rd.","South Bend","IN",51,926900033.1,142818.0493,-86.3778492,41.6873419
+"14",14,"Jackson Middle School","Middle School","5001 Miami Rd.","South Bend","IN",4,1448214566,179283.0832,-86.2365508,41.6232034
+"15",15,"Edison Middle School","Middle School","2701 Eisenhower Dr.","South Bend","IN",20,586547988,129471.8614,-86.2085418,41.6893692
+"16",16,"Jefferson Middle School","Middle School","528 S. Eddy St.","South Bend","IN",28,109126269.5,47475.36713,-86.2345252,41.6704851
+"17",17,"Navarre Middle School","Middle School","4702 W. Ford St.","South Bend","IN",42,951533518.9,203836.691,-86.3124885,41.6685532
+"18",18,"Dickinson Middle School","Middle School","4404 Elwood Ave.","South Bend","IN",54,1327424219,192183.7736,-86.3091493,41.6922253
+"19",19,"Adams High School","High School","808 S. Twyckenham Dr.","South Bend","IN",1,340132697.7,114723.3815,-86.22289,41.6670321
+"20",20,"Clay High School","High School","19131 Darden Rd.","South Bend","IN",3,915753502.7,136387.7906,-86.2384061,41.7319447
+"21",21,"Riley High School","High School","1902 S. Fellows St.","South Bend","IN",7,1005743350,130578.4572,-86.2433179,41.6544786
+"22",22,"Washington High School","High School","4747 W. Washington St.","South Bend","IN",8,2161217011,249803.4317,-86.315173,41.6753115
